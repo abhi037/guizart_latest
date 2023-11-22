@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-24 02:55:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 04:21:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 06:26:20 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 09:27:48 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-24 09:27:52 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-24 09:42:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 11:56:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 12:31:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 13:31:37 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-24 13:44:34 --> 404 Page Not Found: Home/faq
+ERROR - 2021-04-24 15:04:58 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-24 17:12:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-04-24 17:23:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 18:14:19 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-04-24 18:14:20 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-04-24 18:14:22 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-04-24 18:14:23 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-04-24 18:14:24 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-04-24 18:14:24 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-04-24 18:14:25 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-04-24 18:14:25 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-04-24 18:14:25 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-04-24 18:14:26 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-04-24 18:14:27 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-04-24 18:14:27 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-04-24 18:14:28 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-04-24 18:14:29 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-04-24 18:38:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 19:41:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-24 21:31:12 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-24 21:31:12 --> 404 Page Not Found: Uploads/user_image

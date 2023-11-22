@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-07 03:12:25 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-07 04:17:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 07:16:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 07:16:13 --> 404 Page Not Found: Asset-manifestjson/index
+ERROR - 2021-03-07 09:41:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 12:09:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 12:25:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 14:21:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 14:21:23 --> 404 Page Not Found: Home/about_us
+ERROR - 2021-03-07 14:54:27 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-07 18:17:52 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-03-07 18:17:53 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-03-07 18:17:56 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-03-07 18:17:57 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-03-07 18:17:57 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-03-07 18:17:58 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-03-07 18:18:00 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-03-07 18:18:01 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-03-07 18:18:02 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-03-07 18:18:03 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-03-07 18:18:04 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-03-07 18:18:04 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-03-07 18:18:05 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-03-07 18:18:06 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-03-07 18:18:06 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-03-07 18:18:07 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-03-07 18:18:07 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-03-07 18:18:08 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-03-07 19:52:01 --> 404 Page Not Found: Robotstxt/index

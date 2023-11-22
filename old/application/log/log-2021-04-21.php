@@ -1,0 +1,33 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-21 03:57:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 04:20:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 04:43:47 --> 404 Page Not Found: Wp-content/db-cache.php
+ERROR - 2021-04-21 06:21:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 08:22:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 10:09:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 11:01:20 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-21 11:01:20 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-21 11:35:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 11:52:46 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-04-21 11:52:47 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-04-21 11:52:49 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-04-21 11:52:49 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-04-21 11:52:50 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-04-21 11:52:51 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-04-21 11:52:51 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-04-21 11:52:52 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-04-21 11:52:52 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-04-21 11:52:52 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-04-21 11:52:53 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-04-21 11:52:53 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-04-21 11:52:53 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-04-21 11:52:54 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-04-21 11:52:54 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-04-21 11:52:55 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-04-21 11:52:56 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-04-21 11:52:56 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-04-21 15:46:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 17:09:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-21 17:09:19 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-04-21 22:56:15 --> 404 Page Not Found: Robotstxt/index

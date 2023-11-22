@@ -1,0 +1,57 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-05-25 00:56:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 01:40:33 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-05-25 01:42:20 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2021-05-25 01:43:24 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2021-05-25 02:19:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 02:55:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 03:51:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 06:52:16 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-05-25 06:52:16 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-25 06:52:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 09:53:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 10:09:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 11:16:51 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-25 11:16:52 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-25 11:16:54 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-25 11:16:54 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-05-25 11:16:58 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-05-25 11:16:59 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-05-25 11:17:01 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-05-25 11:17:03 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-05-25 11:17:04 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-25 11:17:06 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-25 12:32:33 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-25 12:32:33 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-05-25 12:32:35 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-05-25 12:32:36 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-05-25 12:32:37 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-05-25 12:32:37 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-05-25 12:32:38 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-25 12:32:38 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-05-25 12:32:39 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-05-25 12:32:39 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-05-25 12:32:40 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-05-25 12:32:40 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-05-25 12:32:41 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-05-25 12:32:41 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-05-25 12:32:42 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-05-25 12:32:43 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-05-25 12:32:44 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-05-25 12:36:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 12:36:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 14:58:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-05-25 16:32:31 --> 404 Page Not Found: Wp-content/db-cache.php
+ERROR - 2021-05-25 18:26:57 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-05-25 18:27:08 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-05-25 18:27:09 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-05-25 18:27:10 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-05-25 18:27:14 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-05-25 18:27:14 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-05-25 18:27:15 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-05-25 18:27:15 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-05-25 18:27:16 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-05-25 18:27:17 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-05-25 22:06:05 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-05-25 22:06:05 --> 404 Page Not Found: Uploads/user_image

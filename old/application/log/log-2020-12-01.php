@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-01 00:41:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 02:20:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 03:35:47 --> 404 Page Not Found: Rchk/index
+ERROR - 2020-12-01 05:20:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 07:30:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 09:55:12 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-12-01 10:56:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 12:32:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 15:37:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 15:37:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 17:31:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 20:58:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-01 21:43:35 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-01 21:43:36 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-12-01 21:43:39 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-12-01 21:43:40 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-12-01 21:43:41 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-01 21:43:41 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-01 21:43:42 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-01 21:43:42 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-01 21:43:43 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2020-12-01 21:43:44 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-01 21:43:45 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-01 21:43:45 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-01 21:43:47 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-01 21:43:47 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-01 21:43:48 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-01 21:43:48 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-01 21:43:48 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-01 22:38:13 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-06-26 00:28:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-26 00:46:54 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-06-26 00:46:54 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-06-26 00:46:56 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-06-26 00:46:56 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-06-26 00:46:56 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-06-26 00:46:57 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-06-26 00:46:57 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-06-26 00:46:58 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-06-26 00:46:58 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-06-26 00:46:58 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-06-26 00:46:58 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-06-26 00:46:58 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-06-26 00:46:59 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-06-26 00:46:59 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-06-26 01:47:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-26 03:23:04 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-06-26 03:23:04 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-06-26 03:23:06 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-06-26 03:23:07 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-06-26 03:23:07 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-06-26 03:23:08 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-06-26 03:23:08 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-06-26 03:23:08 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-06-26 03:23:08 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-06-26 03:23:09 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-06-26 03:23:09 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-06-26 03:23:10 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-06-26 03:23:11 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-06-26 03:23:11 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-06-26 05:30:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-26 11:21:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-26 12:32:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-06-26 15:52:08 --> Severity: Warning --> A non-numeric value encountered /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 708
+ERROR - 2020-06-26 17:41:22 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-06-26 19:06:21 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-06-26 21:09:52 --> 404 Page Not Found: Robotstxt/index

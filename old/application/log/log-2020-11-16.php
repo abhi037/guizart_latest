@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-16 01:52:13 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-11-16 05:06:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 05:35:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 09:02:01 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-11-16 09:02:02 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-11-16 09:02:04 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-11-16 09:02:04 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-11-16 09:02:04 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-11-16 09:02:05 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-11-16 09:02:05 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-11-16 09:02:05 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-11-16 09:02:05 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-11-16 09:02:06 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-11-16 09:02:06 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-11-16 09:02:06 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-11-16 09:02:07 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-11-16 09:02:07 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-11-16 11:11:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 12:10:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 12:33:16 --> 404 Page Not Found: Assets/backend
+ERROR - 2020-11-16 12:33:16 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-11-16 12:37:44 --> 404 Page Not Found: Assets/backend
+ERROR - 2020-11-16 13:53:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 14:37:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 14:55:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 14:55:23 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-11-16 15:07:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 16:07:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 17:25:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 17:44:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 21:25:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 22:49:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-11-16 22:49:49 --> 404 Page Not Found: Robotstxt/index

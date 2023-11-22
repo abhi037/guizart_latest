@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-09-13 00:54:27 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2020-09-13 01:57:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 02:40:00 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-09-13 02:40:00 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-09-13 02:40:02 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-09-13 02:40:03 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-09-13 02:40:04 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-09-13 02:40:04 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-09-13 02:40:05 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-09-13 02:40:05 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-09-13 02:40:06 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-09-13 02:40:06 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-09-13 02:40:07 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-09-13 02:40:07 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-09-13 02:40:07 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-09-13 02:40:08 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-09-13 05:53:02 --> 404 Page Not Found: Rchk/index
+ERROR - 2020-09-13 06:10:39 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 08:58:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 10:51:43 --> 404 Page Not Found: Assets/backend
+ERROR - 2020-09-13 10:51:43 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-09-13 10:55:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 11:06:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 12:19:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 12:22:29 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-09-13 12:58:15 --> 404 Page Not Found: Index/index
+ERROR - 2020-09-13 13:15:26 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-09-13 13:15:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 13:21:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 13:21:45 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-09-13 13:33:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 14:43:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 16:14:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 16:54:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 17:03:41 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-09-13 18:44:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 19:58:20 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-09-13 20:34:01 --> 404 Page Not Found: Rchk/index
+ERROR - 2020-09-13 20:40:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 20:54:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 21:04:24 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-09-13 22:21:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 22:24:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-09-13 23:56:50 --> 404 Page Not Found: Sitemapsxml/index

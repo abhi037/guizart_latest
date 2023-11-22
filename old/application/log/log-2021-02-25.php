@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-25 01:30:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 01:30:55 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-25 01:34:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 02:14:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 02:57:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 04:30:42 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-25 04:30:43 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-02-25 04:30:45 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-25 04:30:46 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-25 04:30:47 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-25 04:30:47 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-25 04:30:48 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-25 04:30:49 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-25 04:30:50 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-02-25 04:30:51 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-02-25 04:30:52 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-02-25 04:30:52 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-25 04:30:53 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-25 04:30:53 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-25 04:30:54 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-25 04:30:55 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-25 04:30:56 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-25 07:44:57 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 09:48:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 10:03:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 18:16:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-25 20:07:53 --> 404 Page Not Found: Robotstxt/index

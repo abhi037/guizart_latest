@@ -1,0 +1,52 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-05-15 00:00:55 --> Severity: Notice --> Undefined variable: record /home/u479965994/domains/checklive.in/public_html/application/views/frontend/default/my_enroll.php 113
+ERROR - 2020-05-15 00:03:53 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-05-15 00:05:14 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-05-15 00:05:19 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-05-15 00:32:47 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-05-15 00:32:55 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-05-15 00:34:37 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-05-15 00:38:09 --> Severity: Notice --> Undefined variable: record /home/u479965994/domains/checklive.in/public_html/application/views/frontend/default/my_enroll.php 113
+ERROR - 2020-05-15 01:16:54 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 01:16:58 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 01:28:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-15 02:38:58 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:39:07 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:39:54 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:40:18 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:40:35 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:40:48 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:41:04 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:41:16 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:41:40 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:42:03 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:42:27 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:43:09 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 02:43:58 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 04:34:36 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 04:34:41 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 08:35:10 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 08:35:14 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 18:03:57 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 18:04:03 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 18:04:50 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 18:04:56 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 19:19:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-05-15 19:19:48 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 21:23:10 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2020-05-15 21:26:31 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-05-15 21:27:19 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-05-15 21:27:23 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 21:27:27 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 21:37:53 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 22:34:56 --> 404 Page Not Found: Aravindamwordpress/programms
+ERROR - 2020-05-15 22:39:44 --> 404 Page Not Found: Aravindamwordpress/programms
+ERROR - 2020-05-15 22:40:25 --> 404 Page Not Found: Caf/index
+ERROR - 2020-05-15 22:41:07 --> 404 Page Not Found: Gcat/campaign
+ERROR - 2020-05-15 22:41:48 --> 404 Page Not Found: Ivillage/shop
+ERROR - 2020-05-15 22:42:29 --> 404 Page Not Found: Corporateedge/virtual-offices
+ERROR - 2020-05-15 22:43:10 --> 404 Page Not Found: Ivillagenew/home-06
+ERROR - 2020-05-15 22:45:56 --> 404 Page Not Found: Egovcalance/shop
+ERROR - 2020-05-15 22:50:12 --> 404 Page Not Found: Platinoir/wp-content
+ERROR - 2020-05-15 22:50:16 --> 404 Page Not Found: Platinoir/wp-content

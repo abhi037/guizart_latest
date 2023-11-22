@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-14 00:32:25 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-12-14 00:32:26 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-12-14 00:32:30 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-12-14 00:32:30 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-12-14 00:32:31 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-12-14 00:32:32 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-12-14 00:32:33 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-12-14 00:32:34 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-12-14 00:32:34 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2020-12-14 00:32:35 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-12-14 00:32:35 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-12-14 00:32:36 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-12-14 00:32:36 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-12-14 00:32:37 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-12-14 00:32:37 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-12-14 00:32:38 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-12-14 00:32:38 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-12-14 08:48:58 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 09:53:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 11:40:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 11:40:42 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 12:00:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 15:01:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 17:42:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 18:01:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-12-14 20:28:23 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-12-14 23:23:43 --> 404 Page Not Found: Robotstxt/index

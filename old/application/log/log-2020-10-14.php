@@ -1,0 +1,46 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-14 00:27:05 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2020-10-14 02:45:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 04:28:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 06:48:48 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-10-14 08:06:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 08:15:16 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 08:15:23 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2020-10-14 10:39:27 --> 404 Page Not Found: Assets/backend
+ERROR - 2020-10-14 11:02:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 11:32:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 11:48:45 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 12:25:26 --> 404 Page Not Found: Upload/dashboard.PNG
+ERROR - 2020-10-14 12:25:32 --> 404 Page Not Found: Uploads/dashboard.PNG
+ERROR - 2020-10-14 12:25:40 --> 404 Page Not Found: Uploads/dashboard.png
+ERROR - 2020-10-14 12:25:48 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:26 --> 404 Page Not Found: Up/index
+ERROR - 2020-10-14 12:26:27 --> 404 Page Not Found: Upl/index
+ERROR - 2020-10-14 12:26:27 --> 404 Page Not Found: Uplo/index
+ERROR - 2020-10-14 12:26:28 --> 404 Page Not Found: Uploa/index
+ERROR - 2020-10-14 12:26:29 --> 404 Page Not Found: Upload/index
+ERROR - 2020-10-14 12:26:31 --> 404 Page Not Found: Uploads/fr
+ERROR - 2020-10-14 12:26:32 --> 404 Page Not Found: Uploads/fro
+ERROR - 2020-10-14 12:26:32 --> 404 Page Not Found: Uploads/fron
+ERROR - 2020-10-14 12:26:44 --> 404 Page Not Found: Uploads/fronten
+ERROR - 2020-10-14 12:26:45 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:45 --> 404 Page Not Found: Uploads/fronte
+ERROR - 2020-10-14 12:26:45 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:45 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:45 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:46 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:46 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:46 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 12:26:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 12:26:48 --> 404 Page Not Found: Uploads/frontend
+ERROR - 2020-10-14 13:59:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 14:02:26 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 15:02:29 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-10-14 15:52:33 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-14 15:52:42 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2020-10-14 15:52:51 --> 404 Page Not Found: Nettemicro/index
+ERROR - 2020-10-14 17:08:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 17:23:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 19:16:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-14 20:18:00 --> 404 Page Not Found: Robotstxt/index

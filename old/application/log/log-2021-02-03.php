@@ -1,0 +1,34 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-03 01:05:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 01:05:17 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-02-03 01:57:37 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-02-03 01:57:38 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-02-03 03:00:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 04:11:31 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 05:41:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 06:43:34 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 08:45:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 10:14:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 10:54:38 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 14:38:49 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-03 14:38:54 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-02-03 14:39:06 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-03 14:39:07 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-03 14:39:08 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-03 14:39:09 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-03 14:39:09 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-03 14:39:10 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-03 14:39:10 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-03 14:39:11 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-03 14:39:12 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-03 14:39:12 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-03 14:39:13 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-03 14:39:14 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-03 14:41:07 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-03 18:38:30 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 19:36:43 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-02-03 19:36:44 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-02-03 22:59:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 22:59:09 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-03 23:10:20 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-14 07:51:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 08:51:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 09:13:58 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-14 09:14:01 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-14 10:55:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 10:58:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 11:56:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 13:57:55 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-04-14 13:57:56 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-04-14 13:57:58 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-04-14 13:57:59 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-04-14 13:58:00 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-04-14 13:58:01 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-04-14 13:58:02 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-04-14 13:58:03 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-04-14 13:58:03 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-04-14 13:58:04 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-04-14 13:58:06 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-04-14 13:58:07 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-04-14 13:58:07 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-04-14 13:58:08 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-04-14 13:58:09 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-04-14 13:58:09 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-04-14 13:58:10 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-04-14 14:23:33 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 15:43:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-14 17:33:06 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-04-14 18:53:34 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-14 18:53:34 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-14 23:58:47 --> 404 Page Not Found: Robotstxt/index

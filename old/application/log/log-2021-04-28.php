@@ -1,0 +1,39 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-04-28 00:00:18 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-04-28 00:00:19 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-04-28 00:00:23 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-04-28 00:00:25 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-04-28 00:00:26 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-04-28 00:00:27 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-04-28 00:00:29 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-04-28 00:00:31 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-04-28 00:00:32 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-04-28 00:00:33 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-04-28 00:00:35 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-04-28 00:00:36 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-04-28 00:00:37 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-04-28 00:00:38 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-04-28 00:00:39 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-04-28 00:00:40 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-04-28 00:00:42 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-04-28 00:00:42 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-04-28 02:18:47 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-28 02:18:50 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-28 04:35:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 05:02:21 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 06:03:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 07:31:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 09:42:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 10:19:08 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-28 10:19:08 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-28 11:28:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 11:32:59 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-28 13:32:02 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 14:52:14 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-28 19:42:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 21:48:52 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-04-28 22:20:06 --> 404 Page Not Found: Uploads/user_image
+ERROR - 2021-04-28 22:20:06 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-04-28 22:33:04 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2021-04-28 23:20:24 --> 404 Page Not Found: Adstxt/index

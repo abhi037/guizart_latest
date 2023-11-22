@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-07-15 02:32:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 06:02:40 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 07:02:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 07:51:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 10:41:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 11:58:00 --> 404 Page Not Found: Cpanel/index
+ERROR - 2020-07-15 11:58:06 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-07-15 12:14:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 16:21:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 17:00:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 17:25:10 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-07-15 18:09:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:09:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:09:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:09:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:22:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:22:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:22:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 18:22:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:02:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:02:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:02:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:02:57 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:06:50 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:06:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:06:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:06:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:07:35 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:08:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:08:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:08:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-07-15 22:59:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-07-15 23:40:32 --> 404 Page Not Found: Robotstxt/index

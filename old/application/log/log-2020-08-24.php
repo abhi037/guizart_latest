@@ -1,0 +1,266 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-08-24 00:02:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 02:40:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 02:40:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 04:22:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 05:23:25 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 07:22:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: sub_category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 206
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 207
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 19
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 23
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 28
+ERROR - 2020-08-24 08:42:59 --> Severity: Notice --> Undefined variable: courses /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 08:42:59 --> Severity: error --> Exception: Call to a member function result_array() on null /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 09:22:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 10:40:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:40:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:40:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:40:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:49:15 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:49:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:49:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:49:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:49:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:50:37 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:50:38 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:50:38 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:50:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:53:20 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:53:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:53:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:53:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 10:53:23 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:14:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 11:35:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:36:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:42:05 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:42:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:43:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:43:34 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:44:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:44:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:44:31 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:44:31 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:44:35 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:37 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:37 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:37 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:47:37 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:48:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 11:52:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:52:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:52:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:52:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:56:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:56:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:56:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 11:56:28 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 12:07:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: sub_category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 206
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 207
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 19
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 23
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 28
+ERROR - 2020-08-24 12:19:13 --> Severity: Notice --> Undefined variable: courses /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 12:19:13 --> Severity: error --> Exception: Call to a member function result_array() on null /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 14:12:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 14:26:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 14:29:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:29:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:29:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:29:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:29:58 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-08-24 14:50:01 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:52:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:52:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:52:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:52:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 14:59:09 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:01:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:05:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 15:10:53 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-08-24 15:16:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:18:50 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-08-24 15:18:51 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-08-24 15:18:53 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-08-24 15:18:53 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-08-24 15:18:54 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-08-24 15:18:54 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-08-24 15:18:55 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-08-24 15:18:55 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-08-24 15:18:55 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-08-24 15:18:55 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-08-24 15:18:56 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-08-24 15:18:57 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-08-24 15:18:57 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-08-24 15:18:57 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-08-24 15:23:41 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:24:25 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:24:40 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:24:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:24:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:25:00 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:25:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:25:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:25:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:25:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:26:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:26:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:26:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:26:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:27:15 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:27:15 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:27:15 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:27:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:29:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:30:00 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:30:00 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:30:06 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:32:08 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:32:08 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:32:08 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:32:08 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:34:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:34:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:34:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 15:34:56 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:22:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 16:42:24 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 16:53:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:53:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:53:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:53:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:54:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:54:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:54:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:54:30 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:58:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:58:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:58:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:58:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:59:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:59:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:59:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 16:59:29 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:01:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:01:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:01:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:01:46 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:03:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:03:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:03:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:03:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:08:47 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:08:47 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:08:47 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:08:48 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:09:12 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:09:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:09:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:09:24 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: sub_category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 206
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: category_details /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Home.php 207
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 19
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 23
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: sub_category_name /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 28
+ERROR - 2020-08-24 17:14:32 --> Severity: Notice --> Undefined variable: courses /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 17:14:32 --> Severity: error --> Exception: Call to a member function result_array() on null /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/category_page.php 123
+ERROR - 2020-08-24 17:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:16:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:20:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:20:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:20:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:20:17 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:21:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:22:01 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:22:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:22:02 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:22:03 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:20 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:24 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:53 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:30:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:31:00 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:31:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:31:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:31:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:31:33 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:33:37 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-08-24 17:34:27 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:34:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:34:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:34:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:34:54 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:41:19 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:41:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:41:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:41:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:44:07 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:44:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:44:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:44:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:44:21 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:47:11 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:47:12 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:47:12 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:47:22 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 17:51:57 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-08-24 17:52:09 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-08-24 18:04:06 --> Severity: error --> Exception: syntax error, unexpected 's' (T_STRING), expecting ',' or ')' /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/footer.php 62
+ERROR - 2020-08-24 18:06:36 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:06:36 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:06:36 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:06:36 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:07:44 --> 404 Page Not Found: Home/faq
+ERROR - 2020-08-24 18:07:50 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:07:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:07:51 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 18:13:07 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-08-24 18:22:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 18:58:18 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 19:57:55 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 19:58:16 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 20:00:06 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 20:00:35 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 20:02:49 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 20:04:59 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 20:26:55 --> Severity: Notice --> Undefined index: image_name /home/u208937329/domains/quizart.co.in/public_html/application/controllers/Admin.php 169
+ERROR - 2020-08-24 21:11:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 21:22:10 --> 404 Page Not Found: Administrator/index.php
+ERROR - 2020-08-24 21:22:12 --> 404 Page Not Found: Admin/login.php
+ERROR - 2020-08-24 21:22:13 --> 404 Page Not Found: Admin/index.php
+ERROR - 2020-08-24 21:34:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-08-24 22:23:14 --> 404 Page Not Found: Home/faq
+ERROR - 2020-08-24 22:23:20 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-08-24 22:25:37 --> 404 Page Not Found: Home/about_us
+ERROR - 2020-08-24 23:02:18 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-08-24 23:18:52 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:18:52 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:18:52 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:18:52 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:19:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:19:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:19:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:19:39 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:21:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:21:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:21:26 --> 404 Page Not Found: Assets/frontend
+ERROR - 2020-08-24 23:21:26 --> 404 Page Not Found: Assets/frontend

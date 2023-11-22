@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-06 01:25:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 03:11:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 03:11:42 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-06 06:15:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 06:15:08 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2021-03-06 06:57:21 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-03-06 06:57:23 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-03-06 06:57:25 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-03-06 06:57:26 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-03-06 06:57:26 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-03-06 06:57:26 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-03-06 06:57:28 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-03-06 06:57:29 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-03-06 06:57:29 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-03-06 06:57:30 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-03-06 06:57:31 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-03-06 06:57:32 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-03-06 06:57:32 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-03-06 06:57:33 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-03-06 06:57:34 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-03-06 06:57:34 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-03-06 06:57:35 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-03-06 06:57:36 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-03-06 09:13:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 15:48:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 17:10:11 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 17:15:37 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 18:45:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-06 19:04:41 --> 404 Page Not Found: _ignition/execute-solution
+ERROR - 2021-03-06 21:37:53 --> 404 Page Not Found: Robotstxt/index

@@ -1,0 +1,44 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-03-01 00:27:47 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 01:17:28 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-03-01 02:47:16 --> 404 Page Not Found: Env/index
+ERROR - 2021-03-01 06:24:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 06:52:35 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 07:56:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 07:56:06 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31
+ERROR - 2021-03-01 10:55:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 13:01:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 17:19:17 --> 404 Page Not Found: Blog/index
+ERROR - 2021-03-01 17:19:17 --> 404 Page Not Found: Wp/index
+ERROR - 2021-03-01 17:19:18 --> 404 Page Not Found: Wordpress/index
+ERROR - 2021-03-01 17:19:18 --> 404 Page Not Found: New/index
+ERROR - 2021-03-01 17:19:19 --> 404 Page Not Found: Old/index
+ERROR - 2021-03-01 17:19:20 --> 404 Page Not Found: Test/index
+ERROR - 2021-03-01 17:19:21 --> 404 Page Not Found: Main/index
+ERROR - 2021-03-01 17:19:22 --> 404 Page Not Found: Site/index
+ERROR - 2021-03-01 17:19:22 --> 404 Page Not Found: Backup/index
+ERROR - 2021-03-01 17:19:23 --> 404 Page Not Found: Demo/index
+ERROR - 2021-03-01 17:19:23 --> 404 Page Not Found: Tmp/index
+ERROR - 2021-03-01 17:19:26 --> 404 Page Not Found: Cms/index
+ERROR - 2021-03-01 17:19:26 --> 404 Page Not Found: Dev/index
+ERROR - 2021-03-01 17:19:27 --> 404 Page Not Found: Old-wp/index
+ERROR - 2021-03-01 17:19:28 --> 404 Page Not Found: Web/index
+ERROR - 2021-03-01 17:19:28 --> 404 Page Not Found: Old-site/index
+ERROR - 2021-03-01 17:19:29 --> 404 Page Not Found: Temp/index
+ERROR - 2021-03-01 17:19:29 --> 404 Page Not Found: 2018/index
+ERROR - 2021-03-01 17:19:30 --> 404 Page Not Found: 2019/index
+ERROR - 2021-03-01 17:19:30 --> 404 Page Not Found: Bk/index
+ERROR - 2021-03-01 17:19:31 --> 404 Page Not Found: Wp1/index
+ERROR - 2021-03-01 17:19:31 --> 404 Page Not Found: Wp2/index
+ERROR - 2021-03-01 17:19:32 --> 404 Page Not Found: V1/index
+ERROR - 2021-03-01 17:19:32 --> 404 Page Not Found: V2/index
+ERROR - 2021-03-01 17:19:32 --> 404 Page Not Found: Bak/index
+ERROR - 2021-03-01 17:19:33 --> 404 Page Not Found: 2020/index
+ERROR - 2021-03-01 17:19:34 --> 404 Page Not Found: New-site/index
+ERROR - 2021-03-01 18:55:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 18:55:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 22:57:44 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 22:57:49 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-03-01 23:08:55 --> 404 Page Not Found: Assets/backend
+ERROR - 2021-03-01 23:08:55 --> 404 Page Not Found: Uploads/user_image

@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-02-27 01:16:47 --> 404 Page Not Found: Adstxt/index
+ERROR - 2021-02-27 05:33:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 11:33:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 14:01:19 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-27 14:01:20 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-02-27 14:01:22 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-27 14:01:23 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-27 14:01:24 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-27 14:01:24 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-27 14:01:26 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-27 14:01:26 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-27 14:01:27 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2021-02-27 14:01:27 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-02-27 14:01:27 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-02-27 14:01:27 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-27 14:01:28 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-27 14:01:29 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2021-02-27 14:01:29 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-27 14:01:30 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-27 14:01:31 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-27 14:01:31 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-27 15:09:48 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 15:33:50 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2021-02-27 15:33:51 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2021-02-27 15:33:54 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2021-02-27 15:33:54 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2021-02-27 15:33:55 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2021-02-27 15:33:55 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2021-02-27 15:33:56 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2021-02-27 15:33:56 --> 404 Page Not Found: News/wp-includes
+ERROR - 2021-02-27 15:33:56 --> 404 Page Not Found: 2020/wp-includes
+ERROR - 2021-02-27 15:33:57 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2021-02-27 15:33:57 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2021-02-27 15:33:58 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2021-02-27 15:33:58 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2021-02-27 15:33:59 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2021-02-27 15:34:00 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2021-02-27 15:34:11 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2021-02-27 15:34:16 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2021-02-27 22:01:19 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 22:04:18 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 22:55:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-02-27 23:29:39 --> Severity: Notice --> Undefined variable: order /home/u208937329/domains/quizart.co.in/public_html/application/views/frontend/default/razorpay.php 31

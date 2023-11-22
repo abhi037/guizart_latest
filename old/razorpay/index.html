@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="http://yegor256.github.io/tacit/tacit.min.css"/>
+</head>
+<body>
+<center>
+    <form id="checkout-selection" method="POST">
+	<h3>Quiz Art - Registration for MAY 2020 Batch</h3>
+	<img src="https://scholarshipscorner.website/wp-content/uploads/2020/04/Add-a-heading-3-440x264.png" style="width:50%" />
+	<br/>
+        <input type="radio" name="checkout" value="automatic" style="margin-top:10px">I accept terms & conditions<br>
+        <input type="submit" value="Enroll Now">
+    </form>
+	</center>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script>
+        jQuery(document).ready(function($) 
+        {
+            var form = $('#checkout-selection');
+            var radio = $('input[name="checkout"]');
+            var choice = '';
+
+            radio.change(function(e) 
+            {
+                choice = this.value;
+                if (choice === 'orders') 
+                {
+                    form.attr('action', 'pay.php?checkout=manual');
+                } 
+                else 
+                {
+                    form.attr('action', 'pay.php?checkout=automatic');
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,40 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-10-19 02:12:28 --> 404 Page Not Found: Env/index
+ERROR - 2020-10-19 03:22:12 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 04:12:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 04:12:50 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 07:12:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 07:55:14 --> 404 Page Not Found: Wp-loginphp/index
+ERROR - 2020-10-19 07:56:22 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 08:57:55 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2020-10-19 08:57:55 --> 404 Page Not Found: Xmlrpcphp/index
+ERROR - 2020-10-19 08:57:56 --> 404 Page Not Found: Blog/wp-includes
+ERROR - 2020-10-19 08:57:57 --> 404 Page Not Found: Web/wp-includes
+ERROR - 2020-10-19 08:57:57 --> 404 Page Not Found: Wordpress/wp-includes
+ERROR - 2020-10-19 08:57:58 --> 404 Page Not Found: Website/wp-includes
+ERROR - 2020-10-19 08:57:58 --> 404 Page Not Found: Wp/wp-includes
+ERROR - 2020-10-19 08:57:59 --> 404 Page Not Found: News/wp-includes
+ERROR - 2020-10-19 08:57:59 --> 404 Page Not Found: 2018/wp-includes
+ERROR - 2020-10-19 08:57:59 --> 404 Page Not Found: 2019/wp-includes
+ERROR - 2020-10-19 08:58:00 --> 404 Page Not Found: Shop/wp-includes
+ERROR - 2020-10-19 08:58:01 --> 404 Page Not Found: Wp1/wp-includes
+ERROR - 2020-10-19 08:58:03 --> 404 Page Not Found: Test/wp-includes
+ERROR - 2020-10-19 08:58:04 --> 404 Page Not Found: Media/wp-includes
+ERROR - 2020-10-19 08:58:05 --> 404 Page Not Found: Wp2/wp-includes
+ERROR - 2020-10-19 08:58:06 --> 404 Page Not Found: Site/wp-includes
+ERROR - 2020-10-19 08:58:06 --> 404 Page Not Found: Cms/wp-includes
+ERROR - 2020-10-19 08:58:06 --> 404 Page Not Found: Sito/wp-includes
+ERROR - 2020-10-19 09:33:53 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 10:13:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 10:19:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 11:36:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 12:56:19 --> Severity: Notice --> Undefined offset: 5 /home/u208937329/domains/quizart.co.in/public_html/application/models/Crud_model.php 2392
+ERROR - 2020-10-19 13:46:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 14:33:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 15:13:04 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 15:27:14 --> 404 Page Not Found: Adstxt/index
+ERROR - 2020-10-19 18:21:00 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 19:50:38 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2020-10-19 23:31:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2020-10-19 23:36:08 --> 404 Page Not Found: Robotstxt/index
