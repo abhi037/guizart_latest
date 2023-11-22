@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style Similar space but space not space congruent end style"},"status":"ok"}

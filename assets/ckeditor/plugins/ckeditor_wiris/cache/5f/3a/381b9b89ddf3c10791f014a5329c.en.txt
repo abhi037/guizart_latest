@@ -1,0 +1,1 @@
+{"result":{"text":"10 squared left parenthesis 0.1 space s e c space theta minus 0.1 right parenthesis"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight t equals straight T over 4 equals fraction numerator straight pi over denominator 2 straight omega end fraction equals straight pi over 4 square root of straight ell over straight g end root"},"status":"ok"}

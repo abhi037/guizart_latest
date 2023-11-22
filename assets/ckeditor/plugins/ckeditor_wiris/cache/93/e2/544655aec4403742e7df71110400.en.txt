@@ -1,0 +1,1 @@
+{"result":{"text":"negative 15 space straight i with hat on top"},"status":"ok"}

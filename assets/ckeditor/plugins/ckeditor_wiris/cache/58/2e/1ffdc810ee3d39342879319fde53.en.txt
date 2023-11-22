@@ -1,0 +1,1 @@
+{"result":{"text":"straight x space equals space straight x subscript 1 space and space straight x space equals space straight x subscript 3"},"status":"ok"}

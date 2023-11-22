@@ -1,0 +1,1 @@
+{"result":{"text":"straight y space equals space cos space straight x squared space sin space straight t"},"status":"ok"}

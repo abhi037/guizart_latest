@@ -1,0 +1,1 @@
+{"result":{"text":"straight u squared over straight R minus straight v squared over straight R space equals 4 straight g space rightwards double arrow"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Tsin 30 to the power of 0 equals straight m open parentheses fraction numerator 3 straight R over denominator 2 end fraction close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"mv squared over straight R space minus space mg space space space space"},"status":"ok"}

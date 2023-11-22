@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 24.5 straight x 10 to the power of negative 2 end exponent straight m over denominator left parenthesis 10.0 divided by 10 right parenthesis squared sec squared end fraction"},"status":"ok"}

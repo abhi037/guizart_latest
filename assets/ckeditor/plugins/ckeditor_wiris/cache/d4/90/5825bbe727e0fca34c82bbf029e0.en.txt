@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow square root of 2 gl end root space equals space square root of 2 glsin end root"},"status":"ok"}

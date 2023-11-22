@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  The applied horizontal force  end text straight F text  has tendency to rotate the cube in anticlockwise sense about centre of  end text end cell row cell text  cube. Hence statement-  end text 2 text  is false.  end text end cell end table"},"status":"ok"}

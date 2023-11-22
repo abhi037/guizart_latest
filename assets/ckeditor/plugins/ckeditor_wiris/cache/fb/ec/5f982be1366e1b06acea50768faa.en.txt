@@ -1,0 +1,1 @@
+{"result":{"text":"straight N subscript A over straight N subscript C"},"status":"ok"}

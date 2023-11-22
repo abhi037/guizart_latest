@@ -1,0 +1,1 @@
+{"result":{"text":"straight f equals 4 ma space space space space space space space space space space space space space space space space space space.... left parenthesis 1 right parenthesis\nleft parenthesis mg minus straight f right parenthesis straight r equals open parentheses 3 mr squared plus mr squared close parentheses straight alpha"},"status":"ok"}

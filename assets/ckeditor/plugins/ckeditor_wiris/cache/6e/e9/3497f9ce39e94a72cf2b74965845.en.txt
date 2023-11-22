@@ -1,0 +1,1 @@
+{"result":{"text":"N subscript A space equals space m g space plus fraction numerator m V squared over denominator R subscript A end fraction space space"},"status":"ok"}

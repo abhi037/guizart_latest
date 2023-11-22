@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Which one of the following alkaline earth metal sulphates  end text end cell row cell text  has its hydration enthalpy greater than its lattice enthalpy?  end text end cell end table"},"status":"ok"}

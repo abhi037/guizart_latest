@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript ext equals space straight F times straight x    rightwards double arrow space space space space space linear space variation"},"status":"ok"}

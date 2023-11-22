@@ -1,0 +1,1 @@
+{"result":{"text":"6 straight i with hat on top"},"status":"ok"}

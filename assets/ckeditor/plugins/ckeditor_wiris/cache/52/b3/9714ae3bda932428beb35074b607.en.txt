@@ -1,0 +1,1 @@
+{"result":{"text":"straight x minus straight y equals 2 square root of 3"},"status":"ok"}

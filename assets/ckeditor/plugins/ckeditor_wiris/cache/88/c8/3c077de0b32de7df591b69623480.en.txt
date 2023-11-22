@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 1 half bold i with hat on top space plus fraction numerator square root of 3 over denominator 2 end fraction bold j with hat on top close parentheses"},"status":"ok"}

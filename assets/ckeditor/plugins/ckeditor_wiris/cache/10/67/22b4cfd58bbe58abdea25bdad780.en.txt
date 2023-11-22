@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  A  end text intersection straight B text  is an equivalence relation  end text end cell row blank row blank row blank end table"},"status":"ok"}

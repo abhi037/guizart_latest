@@ -1,0 +1,1 @@
+{"result":{"text":"text  The ionic radii  end text left parenthesis inA to the power of 0 right parenthesis text  of  end text N to the power of 3 minus sign comma O to the power of 2 minus sign text  and  end text F to the power of minus sign text are respectively:  end text"},"status":"ok"}

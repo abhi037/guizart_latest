@@ -1,0 +1,1 @@
+{"result":{"text":"straight R subscript straight A space less than"},"status":"ok"}

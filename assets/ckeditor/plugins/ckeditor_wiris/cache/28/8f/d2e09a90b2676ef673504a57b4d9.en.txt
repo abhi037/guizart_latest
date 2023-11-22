@@ -1,0 +1,1 @@
+{"result":{"text":"straight m square root of straight g squared plus straight a squared end root"},"status":"ok"}

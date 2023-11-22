@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  i.e.  end text straight a subscript straight p equals straight a subscript straight q equals 0 end cell row cell 4 text  kg block is moving due to friction and maximum friction force is  end text 8 straight N text  .  end text end cell end table"},"status":"ok"}

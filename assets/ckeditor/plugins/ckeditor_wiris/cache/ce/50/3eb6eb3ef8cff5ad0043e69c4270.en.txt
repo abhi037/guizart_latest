@@ -1,0 +1,1 @@
+{"result":{"text":"text  Distance of  end text fraction numerator 2 straight pi over denominator 3 end fraction text  - chord of  end text straight x squared plus straight y squared plus 2 straight x plus 4 straight y plus 1 equals 0 text  from the centre, is  end text"},"status":"ok"}

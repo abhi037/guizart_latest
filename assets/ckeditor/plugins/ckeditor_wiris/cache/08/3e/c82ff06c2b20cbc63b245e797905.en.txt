@@ -1,0 +1,1 @@
+{"result":{"text":"straight epsilon"},"status":"ok"}

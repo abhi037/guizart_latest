@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style AP minus 5 comma fraction numerator negative 5 over denominator 2 end fraction comma 0 comma 5 over 2 comma horizontal ellipsis end style"},"status":"ok"}

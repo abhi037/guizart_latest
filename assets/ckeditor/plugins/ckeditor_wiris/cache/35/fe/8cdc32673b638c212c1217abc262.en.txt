@@ -1,0 +1,1 @@
+{"result":{"text":"straight g subscript eff"},"status":"ok"}

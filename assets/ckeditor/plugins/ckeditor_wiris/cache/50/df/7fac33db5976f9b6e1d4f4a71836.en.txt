@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 0.1 space right parenthesis sin space left parenthesis straight pi right parenthesis cross times sin space left parenthesis 10 straight pi space right parenthesis straight t"},"status":"ok"}

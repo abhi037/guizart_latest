@@ -1,0 +1,1 @@
+{"result":{"text":"straight P subscript 1 equals mg over straight A"},"status":"ok"}

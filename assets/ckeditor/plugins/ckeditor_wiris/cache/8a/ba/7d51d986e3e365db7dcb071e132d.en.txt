@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign right end attributes row cell text  From  end text left parenthesis 1 right parenthesis text  and  end text left parenthesis 2 right parenthesis colon end cell row cell mL squared straight alpha equals open parentheses mgL plus kh squared close parentheses straight theta end cell end table"},"status":"ok"}

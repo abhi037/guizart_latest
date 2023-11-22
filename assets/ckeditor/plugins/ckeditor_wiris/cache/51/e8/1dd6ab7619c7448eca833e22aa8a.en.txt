@@ -1,0 +1,1 @@
+{"result":{"text":"straight theta equals ten to the power of negative 1 end exponent open parentheses fraction numerator straight a subscript 0 plus 9 space sin space straight alpha over denominator straight g space cos space straight alpha end fraction close parentheses"},"status":"ok"}

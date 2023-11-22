@@ -1,0 +1,1 @@
+{"result":{"text":"1.71 comma 1.36 text  and  end text 1.40"},"status":"ok"}

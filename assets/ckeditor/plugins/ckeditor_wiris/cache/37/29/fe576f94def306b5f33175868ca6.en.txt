@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Angels  end text minus 5 comma straight k & minus 1 text  are in  end text AP end cell row cell therefore 2 straight k equals negative 5 minus 1 end cell row cell rightwards double arrow straight k equals negative 3 end cell end table"},"status":"ok"}

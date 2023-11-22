@@ -1,0 +1,1 @@
+{"result":{"text":"text  out of  end text 6 text  different photons only  end text 2 text  photons have speed equal to that of visible light.  end text"},"status":"ok"}

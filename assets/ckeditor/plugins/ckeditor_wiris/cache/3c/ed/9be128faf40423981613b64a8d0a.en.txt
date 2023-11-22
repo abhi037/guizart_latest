@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Statement-1: elm ratio in case of anode ray experiment is different for different gases.  end text end cell row cell text  Statement-2: The ion of gases formed after the ejection of electron are different if gas is different.  end text end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Hence space open parentheses straight I subscript straight A over straight I subscript straight B close parentheses space equals space open parentheses fraction numerator straight a over denominator 3 straight a end fraction close parentheses squared space equals space 1 over 9"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight T minus mg equals ma rightwards double arrow 800 minus 500 equals 50 straight a    rightwards double arrow    straight a equals 6 straight m divided by straight s squared"},"status":"ok"}

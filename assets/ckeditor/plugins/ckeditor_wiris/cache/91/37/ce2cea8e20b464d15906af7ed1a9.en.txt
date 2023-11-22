@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Only the portion of energy  end text straight K subscript cm text  can be transformed from one form to another due to internal  end text end cell row cell text  changes in the system.  end text end cell end table"},"status":"ok"}

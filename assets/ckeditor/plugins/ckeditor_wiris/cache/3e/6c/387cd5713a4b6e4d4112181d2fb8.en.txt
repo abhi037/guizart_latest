@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight A times straight v right parenthesis equals 1 fourth πd squared cross times square root of 2 gh end root straight m cubed over straight s space equals space Mass space eiected space is space 1 fourth πd squared cross times square root of 2 gh end root cross times straight rho kg over straight s.\n"},"status":"ok"}

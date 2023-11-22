@@ -1,0 +1,1 @@
+{"result":{"text":"cos fraction numerator straight alpha minus straight beta over denominator 2 end fraction equals fraction numerator 1 over denominator square root of 2 end fraction"},"status":"ok"}

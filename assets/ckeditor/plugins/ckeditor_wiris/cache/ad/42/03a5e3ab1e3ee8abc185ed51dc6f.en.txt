@@ -1,0 +1,1 @@
+{"result":{"text":"space straight f space equals space fraction numerator 1 over denominator 2 straight ell end fraction space square root of straight T over straight mu end root space space space space space space space space space space space space space straight mu equals ρπr squared"},"status":"ok"}

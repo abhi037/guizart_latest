@@ -1,0 +1,1 @@
+{"result":{"text":"g over 3 space straight m divided by straight s"},"status":"ok"}

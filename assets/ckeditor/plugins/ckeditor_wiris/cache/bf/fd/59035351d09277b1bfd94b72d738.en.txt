@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Average kinetic energy with respect to time  end text equals 1 fourth kA squared end cell row cell text  Average potential energy with respect to time  end text equals 1 fourth kA squared end cell row cell Hence space option space 1 space is space true. end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight alpha over straight beta straight e to the power of αz over kθ end exponent"},"status":"ok"}

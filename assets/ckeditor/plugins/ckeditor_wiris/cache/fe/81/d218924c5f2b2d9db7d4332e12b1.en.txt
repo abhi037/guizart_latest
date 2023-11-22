@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  (A)  end text straight x squared minus straight y squared plus straight x minus straight y equals 0 end cell blank row blank blank end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style DE equals 12 space cm comma space angle F equals 100 degree end style"},"status":"ok"}

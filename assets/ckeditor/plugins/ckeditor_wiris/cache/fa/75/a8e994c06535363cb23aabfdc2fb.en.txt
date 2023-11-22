@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript c equals"},"status":"ok"}

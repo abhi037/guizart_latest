@@ -1,0 +1,1 @@
+{"result":{"text":"straight v equals fraction numerator 2 straight P over denominator mgsinθ space space minus space μmgcosθ end fraction"},"status":"ok"}

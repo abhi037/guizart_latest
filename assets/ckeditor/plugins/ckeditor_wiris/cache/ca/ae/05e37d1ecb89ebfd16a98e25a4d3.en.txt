@@ -1,0 +1,1 @@
+{"result":{"text":"straight P equals straight M times straight v    rightwards double arrow    straight v equals straight P over straight M space space space space space space space space space.... left parenthesis 1 right parenthesis"},"status":"ok"}

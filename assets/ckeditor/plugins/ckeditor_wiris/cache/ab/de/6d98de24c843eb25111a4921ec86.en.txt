@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript straight P space end subscript space sin space straight theta space equals space straight v space space rightwards double arrow space straight v subscript straight P equals space straight v space cosecθ"},"status":"ok"}

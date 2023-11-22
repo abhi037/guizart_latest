@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of open vertical bar straight a squared minus straight b squared close vertical bar end root over denominator straight ell end fraction"},"status":"ok"}

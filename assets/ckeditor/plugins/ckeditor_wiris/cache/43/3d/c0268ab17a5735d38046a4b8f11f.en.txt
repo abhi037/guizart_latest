@@ -1,0 +1,1 @@
+{"result":{"text":"straight W over straight g straight a"},"status":"ok"}

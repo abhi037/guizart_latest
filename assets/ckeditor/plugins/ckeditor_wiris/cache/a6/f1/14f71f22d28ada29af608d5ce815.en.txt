@@ -1,0 +1,1 @@
+{"result":{"text":"10 squared space straight N divided by straight m right parenthesis"},"status":"ok"}

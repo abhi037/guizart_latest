@@ -1,0 +1,1 @@
+{"result":{"text":"straight u with rightwards arrow on top equals negative 1.5 straight i with hat on top plus 2 straight j with hat on top"},"status":"ok"}

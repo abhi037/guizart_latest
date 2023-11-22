@@ -1,0 +1,1 @@
+{"result":{"text":"straight u subscript vertical line vertical line end subscript equals 0"},"status":"ok"}

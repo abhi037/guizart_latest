@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell space straight x squared plus 2 xy plus straight y squared plus straight x plus straight y equals 0 end cell blank row blank blank end table"},"status":"ok"}

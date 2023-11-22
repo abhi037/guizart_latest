@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Statement-  end text 1 text  is true because common chord itself passes through origin  end text end cell row cell text  Statement-  end text 2 text  is talse (common chord is  end text straight x minus straight y equals 0 right parenthesis end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight g space sin space alpha open parentheses 1 plus M over m close parentheses space u p space the space incline space"},"status":"ok"}

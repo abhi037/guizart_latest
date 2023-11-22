@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style text  In  end text capital delta ABC tilde capital delta PQR text  and  end text BC over QR equals 1 third end style"},"status":"ok"}

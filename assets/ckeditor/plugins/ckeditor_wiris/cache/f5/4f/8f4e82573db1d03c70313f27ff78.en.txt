@@ -1,0 +1,1 @@
+{"result":{"text":"straight theta"},"status":"ok"}

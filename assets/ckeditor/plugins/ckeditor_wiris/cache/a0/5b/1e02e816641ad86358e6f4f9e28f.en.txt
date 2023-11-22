@@ -1,0 +1,1 @@
+{"result":{"text":"9 straight x squared plus 25 straight y squared plus 150 straight y equals 0"},"status":"ok"}

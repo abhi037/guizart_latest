@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 289 straight v squared over denominator 5 straight R end fraction"},"status":"ok"}

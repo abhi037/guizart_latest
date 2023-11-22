@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi square root of fraction numerator straight L over denominator 2 straight g end fraction end root plus square root of fraction numerator straight L over denominator 4 straight g end fraction end root sin to the power of negative 1 end exponent 2 over 3"},"status":"ok"}

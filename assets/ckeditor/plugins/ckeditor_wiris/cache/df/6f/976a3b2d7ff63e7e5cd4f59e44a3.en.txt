@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 straight x 5 over denominator 1 end fraction equals space 5 space straight m divided by straight s squared"},"status":"ok"}

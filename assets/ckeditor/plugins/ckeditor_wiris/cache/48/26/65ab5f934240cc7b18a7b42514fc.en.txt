@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style Thus comma space the space area space of space ΔPRQ space equals space 9 space times space ΔBCA end style"},"status":"ok"}

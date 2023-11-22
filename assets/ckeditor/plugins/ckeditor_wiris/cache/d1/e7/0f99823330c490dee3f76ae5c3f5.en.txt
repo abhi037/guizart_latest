@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style The space distance space of space the space point space P space left parenthesis 2 comma space 3 right parenthesis space from space the space X space minus sign space axis space is end style"},"status":"ok"}

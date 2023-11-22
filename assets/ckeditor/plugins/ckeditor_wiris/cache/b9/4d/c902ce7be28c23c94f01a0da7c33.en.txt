@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 1 minus straight v squared over straight u squared end root"},"status":"ok"}

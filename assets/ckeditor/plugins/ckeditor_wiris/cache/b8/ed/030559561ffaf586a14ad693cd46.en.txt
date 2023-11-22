@@ -1,0 +1,1 @@
+{"result":{"text":"negative 6 space x space 10 to the power of negative 4 end exponent"},"status":"ok"}

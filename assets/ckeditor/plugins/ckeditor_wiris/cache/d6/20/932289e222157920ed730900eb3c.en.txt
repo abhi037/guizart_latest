@@ -1,0 +1,1 @@
+{"result":{"text":"vertical line straight a vertical line squared greater than straight b"},"status":"ok"}

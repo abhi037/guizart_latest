@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight f subscript 0 equals fraction numerator straight v over denominator 2 straight ell end fraction end cell row cell text  Now beat frequency  end text equals straight f subscript 1 minus straight f subscript 2 end cell end table"},"status":"ok"}

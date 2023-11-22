@@ -1,0 +1,1 @@
+{"result":{"text":"60 to the power of 0 equals space fraction numerator straight m subscript straight c superscript 2 over denominator straight R end fraction space space semicolon"},"status":"ok"}

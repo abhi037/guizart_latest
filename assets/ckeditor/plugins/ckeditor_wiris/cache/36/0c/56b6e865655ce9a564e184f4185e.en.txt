@@ -1,0 +1,1 @@
+{"result":{"text":"xv over 4 straight m. divided by sec."},"status":"ok"}

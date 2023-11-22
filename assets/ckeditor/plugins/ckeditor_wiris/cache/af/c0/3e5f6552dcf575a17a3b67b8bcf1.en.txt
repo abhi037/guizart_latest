@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket straight a right square bracket equals open square brackets 22 over 7 close square brackets"},"status":"ok"}

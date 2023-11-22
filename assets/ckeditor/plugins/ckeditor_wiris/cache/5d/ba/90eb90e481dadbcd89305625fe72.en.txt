@@ -1,0 +1,1 @@
+{"result":{"text":"1 half mω squared open parentheses straight R squared plus straight L squared over 12 close parentheses"},"status":"ok"}

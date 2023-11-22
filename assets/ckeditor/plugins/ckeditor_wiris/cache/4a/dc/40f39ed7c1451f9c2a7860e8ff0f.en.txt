@@ -1,0 +1,1 @@
+{"result":{"text":"straight y space equals space log space left parenthesis straight x squared minus straight t squared right parenthesis space minus space log space left parenthesis straight x minus straight t right parenthesis"},"status":"ok"}

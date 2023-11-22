@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  As the disc is in combined rotation and translation, each point has a tangential velocity and a linear  end text end cell row cell text  velocity in the forward direction.  end text end cell end table"},"status":"ok"}

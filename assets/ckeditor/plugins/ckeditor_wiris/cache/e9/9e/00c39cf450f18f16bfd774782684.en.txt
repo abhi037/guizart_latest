@@ -1,0 +1,1 @@
+{"result":{"text":"straight F with rightwards arrow on top subscript text net  end text end subscript minus straight F with rightwards arrow on top subscript straight A equals 100 cross times 1 left parenthesis negative straight i with hat on top right parenthesis space space space space space space space space space... left parenthesis 2 right parenthesis"},"status":"ok"}

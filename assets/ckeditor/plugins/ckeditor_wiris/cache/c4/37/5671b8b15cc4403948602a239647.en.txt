@@ -1,0 +1,1 @@
+{"result":{"text":"a plus b open parentheses c plus d close parentheses equals e 4"},"status":"ok"}

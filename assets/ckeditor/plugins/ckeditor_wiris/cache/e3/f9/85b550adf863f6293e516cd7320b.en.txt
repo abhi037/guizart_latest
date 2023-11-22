@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style By space Similar space Triangle ’ s space Area space property comma space the space ratio space of space the space areas space of space two space similar space triangles space is space equal space to space square space of space the space ratio space of space their space corresponding space sides point\nend style"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 2 πL end fraction square root of gL space plus open square brackets kh squared over straight m close square brackets end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight lambda subscript 1 equals wavetength space of space the space incidenr space sound space equals fraction numerator 10 straight u minus begin display style straight u over 2 end style over denominator straight f end fraction equals fraction numerator 19 straight u over denominator 2 straight f end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"3 r squared minus 4 r plus 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight f subscript max. end subscript"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1.86 A to the power of 0"},"status":"ok"}

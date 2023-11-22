@@ -1,0 +1,1 @@
+{"result":{"text":"5.72 A to the power of o"},"status":"ok"}

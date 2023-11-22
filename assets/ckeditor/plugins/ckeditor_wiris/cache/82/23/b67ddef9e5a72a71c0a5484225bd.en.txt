@@ -1,0 +1,1 @@
+{"result":{"text":"7 left parenthesis 360 right parenthesis squared"},"status":"ok"}

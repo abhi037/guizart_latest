@@ -1,0 +1,1 @@
+{"result":{"text":"straight T subscript max"},"status":"ok"}

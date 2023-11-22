@@ -1,0 +1,1 @@
+{"result":{"text":"text  If  end text straight x plus straight y equals 1 text  is  end text straight alpha text  -chord of  end text straight x squared plus straight y squared equals 1 comma text  then  end text straight alpha text  is equal to  end text"},"status":"ok"}

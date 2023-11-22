@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style space EF space equals space 12 space cm comma space angle D space equals space 100 degree end style"},"status":"ok"}

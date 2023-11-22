@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style fraction numerator ar left parenthesis capital delta ABC right parenthesis over denominator ar left parenthesis capital delta PQR right parenthesis end fraction equals 9 over 4 end style"},"status":"ok"}

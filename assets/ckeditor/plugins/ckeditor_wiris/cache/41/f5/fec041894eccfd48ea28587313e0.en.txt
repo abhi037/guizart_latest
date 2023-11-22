@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style left parenthesis By space similar space triangles space area space property right parenthesis. end style"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight h subscript 2 space end subscript equals space 2 straight h subscript 1"},"status":"ok"}

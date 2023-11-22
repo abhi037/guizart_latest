@@ -1,0 +1,1 @@
+{"result":{"text":"straight m subscript straight A straight v with rightwards arrow on top subscript straight A plus straight m subscript straight B straight v with rightwards arrow on top subscript straight B equals 0"},"status":"ok"}

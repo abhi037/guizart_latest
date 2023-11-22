@@ -1,0 +1,1 @@
+{"result":{"text":"Linear space momentum"},"status":"ok"}

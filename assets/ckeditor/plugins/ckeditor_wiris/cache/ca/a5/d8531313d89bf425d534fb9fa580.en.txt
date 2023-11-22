@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Reading of spring balance is less than  end text straight m end cell row cell text  if a  end text left parenthesis downwards arrow right parenthesis text  and reading of spring balance is  end text end cell end table"},"status":"ok"}

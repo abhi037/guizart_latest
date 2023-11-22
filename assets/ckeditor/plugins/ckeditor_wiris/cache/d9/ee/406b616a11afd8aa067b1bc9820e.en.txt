@@ -1,0 +1,1 @@
+{"result":{"text":"kx space equals space mg space sinθ space plus space straight mu space mg space cosθ"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"0.2 straight pi space straight m divided by straight s"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight k space equals space straight alpha"},"status":"ok"}

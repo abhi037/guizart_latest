@@ -1,0 +1,1 @@
+{"result":{"text":"mu subscript k"},"status":"ok"}

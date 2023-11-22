@@ -1,0 +1,1 @@
+{"result":{"text":"Just space before space the space particle space transfers space to space inclined space surface comma space we space resolve space its space velocity space along space and space normal space to space the space plane."},"status":"ok"}

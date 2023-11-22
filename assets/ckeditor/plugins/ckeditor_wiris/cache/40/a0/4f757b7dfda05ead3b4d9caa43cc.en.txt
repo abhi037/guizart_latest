@@ -1,0 +1,1 @@
+{"result":{"text":"text  Which of the following compounds is not colored yellow?  end text"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight x x squared plus y squared minus 2 x minus 2 y minus 1 equals 0"},"status":"ok"}

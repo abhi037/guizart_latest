@@ -1,0 +1,1 @@
+{"result":{"text":"straight F minus 17 equals 5 cross times 2 rightwards double arrow straight F equals 27 straight N"},"status":"ok"}

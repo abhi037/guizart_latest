@@ -1,0 +1,1 @@
+{"result":{"text":"straight a equals straight k over straight m left parenthesis straight ell minus straight x right parenthesis rightwards double arrow    therefore    text  The graph of a vs  end text straight x text  is  end text"},"status":"ok"}

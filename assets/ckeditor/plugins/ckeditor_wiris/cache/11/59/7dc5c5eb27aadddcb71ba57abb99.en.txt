@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi over 2 square root of calligraphic l over straight g end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text  Let the initial compression of spring be  end text straight ell. text  Then the acceleration after the block travels a distance  end text straight x text  is  end text"},"status":"ok"}

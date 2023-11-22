@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis negative    comma negative 2 square root of 2 right parenthesis    left parenthesis 2 square root of 2 comma right parenthesis"},"status":"ok"}

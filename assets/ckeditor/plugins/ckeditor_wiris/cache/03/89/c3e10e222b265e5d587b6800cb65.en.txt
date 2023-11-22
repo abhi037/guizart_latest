@@ -1,0 +1,1 @@
+{"result":{"text":"straight y equals 0.1 space sin space left parenthesis left parenthesis straight t minus 1 right parenthesis minus left parenthesis straight x minus 2 right parenthesis right parenthesis"},"status":"ok"}

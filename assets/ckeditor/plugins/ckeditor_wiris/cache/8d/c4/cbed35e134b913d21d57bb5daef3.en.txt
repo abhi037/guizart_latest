@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 Mg over denominator straight k end fraction"},"status":"ok"}

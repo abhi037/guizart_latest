@@ -1,0 +1,1 @@
+{"result":{"text":"equals 1 half Mv squared plus 1 half straight I omega squared"},"status":"ok"}

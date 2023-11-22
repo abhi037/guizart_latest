@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket straight a right square bracket equals left square bracket straight e right square bracket"},"status":"ok"}

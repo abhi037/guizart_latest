@@ -1,0 +1,1 @@
+{"result":{"text":"Each space piece space moves space with space speed space straight v."},"status":"ok"}

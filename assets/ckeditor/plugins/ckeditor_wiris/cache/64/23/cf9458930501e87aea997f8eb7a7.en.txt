@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow space space space Mg space fraction numerator 2 straight R over denominator 5 end fraction plus 0 equals MgR over 5 plus 1 half Mv squared space space space rightwards double arrow space straight v space equals square root of fraction numerator 2 gR over denominator 5 end fraction end root"},"status":"ok"}

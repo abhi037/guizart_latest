@@ -1,0 +1,1 @@
+{"result":{"text":"straight a over 2"},"status":"ok"}

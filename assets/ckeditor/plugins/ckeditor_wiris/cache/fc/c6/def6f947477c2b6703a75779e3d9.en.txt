@@ -1,0 +1,1 @@
+{"result":{"text":"straight V space equals space square root of gR space tanθ end root space space rightwards double arrow space space left parenthesis 20 right parenthesis squared equals space 10 space straight x space 100 space straight x space tan space straight theta"},"status":"ok"}

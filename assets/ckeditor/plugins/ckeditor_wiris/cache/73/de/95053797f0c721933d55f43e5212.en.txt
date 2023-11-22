@@ -1,0 +1,1 @@
+{"result":{"text":"tan space αtan space straight beta equals negative 1"},"status":"ok"}

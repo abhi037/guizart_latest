@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 italic x subscript 1 minus sign 5 italic x subscript 2 over denominator 3 end fraction"},"status":"ok"}

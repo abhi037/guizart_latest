@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Also speed of string is  end text ωR end cell row cell therefore    text  The velocity of disturbance w.r.t. ground  end text equals ωR plus ωR equals 2 ωR end cell end table."},"status":"ok"}

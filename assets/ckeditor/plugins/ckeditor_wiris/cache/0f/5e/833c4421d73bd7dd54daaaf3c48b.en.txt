@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Iω minus mvR over denominator straight I end fraction"},"status":"ok"}

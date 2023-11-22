@@ -1,0 +1,1 @@
+{"result":{"text":"tanθ subscript 1 equals 2 tanθ subscript 2"},"status":"ok"}

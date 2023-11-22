@@ -1,0 +1,1 @@
+{"result":{"text":"straight u with rightwards arrow on top equals 2 straight i minus 3 straight j text  and  end text straight a with rightwards arrow on top equals 6 straight i with hat on top minus 9 straight j with hat on top"},"status":"ok"}

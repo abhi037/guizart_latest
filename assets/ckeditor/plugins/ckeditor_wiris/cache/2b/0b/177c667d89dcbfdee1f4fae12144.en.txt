@@ -1,0 +1,1 @@
+{"result":{"text":"straight V subscript straight x equals 2 straight u"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"sinθ subscript straight A greater than sinθ subscript straight B\nstraight h over straight ell greater than fraction numerator straight h over denominator 2 straight ell end fraction"},"status":"ok"}

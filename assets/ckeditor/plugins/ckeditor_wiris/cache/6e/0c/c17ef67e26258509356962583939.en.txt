@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell equals 3 open parentheses 1 half mv subscript 0 superscript 2 close parentheses plus 1 half mv squared end cell row cell equals 3 straight E subscript 0 plus 3 straight E subscript 0 end cell row cell equals 6 straight E subscript 0 end cell end table"},"status":"ok"}

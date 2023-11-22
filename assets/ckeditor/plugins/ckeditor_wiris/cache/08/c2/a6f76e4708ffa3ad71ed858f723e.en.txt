@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell R equals 1 over k italic ell over A end cell row cell text  The  end text k text  is halved while the A is doubled. Hence R remains  end text 50 italic capital omega end cell end table"},"status":"ok"}

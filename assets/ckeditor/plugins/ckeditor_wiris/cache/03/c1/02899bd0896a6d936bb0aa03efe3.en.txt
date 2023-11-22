@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator μmg over denominator square root of 3 end fraction"},"status":"ok"}

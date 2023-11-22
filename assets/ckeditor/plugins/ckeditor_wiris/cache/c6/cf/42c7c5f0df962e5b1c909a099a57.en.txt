@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared plus straight y squared plus 2 straight x plus 4 straight y minus 20 equals 0"},"status":"ok"}

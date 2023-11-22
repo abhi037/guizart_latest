@@ -1,0 +1,1 @@
+{"result":{"text":"straight y equals straight A space sin left parenthesis ωt minus kx right parenthesis"},"status":"ok"}

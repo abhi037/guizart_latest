@@ -1,0 +1,1 @@
+{"result":{"text":"1 fourth straight mu squared straight a"},"status":"ok"}

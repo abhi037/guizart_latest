@@ -1,0 +1,1 @@
+{"result":{"text":"text  If  end text log subscript 3 2 comma log subscript 3 open parentheses 2 to the power of x minus 5 close parentheses text  and  end text log subscript 3 open parentheses 2 to the power of x minus 7 divided by 2 close parentheses text  are in AP, then  end text x text  is equal to  end text"},"status":"ok"}

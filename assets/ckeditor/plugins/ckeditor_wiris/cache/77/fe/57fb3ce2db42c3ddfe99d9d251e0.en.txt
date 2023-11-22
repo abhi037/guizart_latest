@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 open square brackets fraction numerator 2 straight v squared over denominator straight g end fraction close square brackets"},"status":"ok"}

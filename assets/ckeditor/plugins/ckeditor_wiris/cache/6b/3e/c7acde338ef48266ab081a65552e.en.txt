@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style rightwards arrow fraction numerator ar left parenthesis capital delta PRQ right parenthesis over denominator ar left parenthesis capital delta BCA right parenthesis end fraction equals open parentheses 3 over 1 close parentheses squared equals 9 over 1 end style"},"status":"ok"}

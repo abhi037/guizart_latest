@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight F over denominator 2 space straight m end fraction"},"status":"ok"}

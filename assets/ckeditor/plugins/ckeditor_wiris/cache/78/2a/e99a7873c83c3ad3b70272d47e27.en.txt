@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator open parentheses 1 plus mR squared close parentheses straight omega squared minus mv squared over denominator straight I end fraction end root"},"status":"ok"}

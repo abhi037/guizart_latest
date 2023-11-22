@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Slope of  end text OQ equals 4 over 3 end cell row cell text  Slope of  end text OR equals negative 3 over 4 end cell row cell therefore    angle ROQ equals 90 degree end cell end table\ntherefore    angle QPR equals straight pi over 4\n"},"status":"ok"}

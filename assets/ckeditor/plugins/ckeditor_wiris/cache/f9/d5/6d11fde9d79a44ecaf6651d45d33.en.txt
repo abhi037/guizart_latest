@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style angle B space equals space angle E end style"},"status":"ok"}

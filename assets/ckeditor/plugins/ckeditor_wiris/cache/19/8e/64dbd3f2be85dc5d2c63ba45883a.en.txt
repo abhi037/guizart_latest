@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style square root of 7 plus 5 end root end style"},"status":"ok"}

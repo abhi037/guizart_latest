@@ -1,0 +1,1 @@
+{"result":{"text":"2 cosθ subscript 1 equals sinθ subscript 2"},"status":"ok"}

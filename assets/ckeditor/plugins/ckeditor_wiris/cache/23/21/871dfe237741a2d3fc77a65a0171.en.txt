@@ -1,0 +1,1 @@
+{"result":{"text":"1 half straight epsilon subscript 0 straight E squared open parentheses straight epsilon subscript 0 colon close"},"status":"ok"}

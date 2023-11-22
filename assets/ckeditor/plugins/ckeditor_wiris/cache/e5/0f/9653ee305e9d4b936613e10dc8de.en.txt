@@ -1,0 +1,1 @@
+{"result":{"text":"straight f subscript 0 equals fraction numerator 1 over denominator 2 straight pi end fraction square root of mgℓ over straight I end root"},"status":"ok"}

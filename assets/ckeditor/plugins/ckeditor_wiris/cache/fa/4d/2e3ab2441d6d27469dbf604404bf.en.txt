@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 g over denominator 11 end fraction text  upwards  end text"},"status":"ok"}

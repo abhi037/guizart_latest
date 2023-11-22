@@ -1,0 +1,1 @@
+{"result":{"text":"text  If  end text log subscript e open parentheses fraction numerator a plus b over denominator 2 end fraction close parentheses equals 1 half open parentheses log subscript e a plus a log subscript e b close parentheses text  then  end text"},"status":"ok"}

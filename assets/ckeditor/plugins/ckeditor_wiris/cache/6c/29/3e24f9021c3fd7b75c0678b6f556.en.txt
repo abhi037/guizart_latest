@@ -1,0 +1,1 @@
+{"result":{"text":"straight p space equals space fraction numerator πD squared straight s over denominator 4 straight L end fraction space space fraction numerator calligraphic l over denominator 100 minus calligraphic l end fraction"},"status":"ok"}

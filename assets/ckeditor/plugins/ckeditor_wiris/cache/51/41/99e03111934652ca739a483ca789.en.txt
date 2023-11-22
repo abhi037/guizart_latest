@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style B C point DE space equals space AB point FD end style"},"status":"ok"}

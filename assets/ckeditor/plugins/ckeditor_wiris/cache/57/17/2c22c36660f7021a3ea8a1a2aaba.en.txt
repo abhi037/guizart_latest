@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator Iω squared minus mv squared over denominator straight I end fraction end root"},"status":"ok"}

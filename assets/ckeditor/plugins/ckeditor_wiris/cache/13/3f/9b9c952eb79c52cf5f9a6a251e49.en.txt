@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  A uniform ring of radius  end text straight R text  rolls without sliding. The radius of curvature of the path followed by any  end text end cell row cell text  particle of the ring at the highest point of its path will be:  end text end cell end table"},"status":"ok"}

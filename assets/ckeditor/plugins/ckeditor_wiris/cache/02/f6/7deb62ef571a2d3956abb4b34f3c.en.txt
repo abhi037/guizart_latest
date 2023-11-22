@@ -1,0 +1,1 @@
+{"result":{"text":"straight a squared straight n squared plus straight b squared straight m squared equals 2 straight ell squared"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight A space sin left parenthesis ωt plus kx plus straight pi right parenthesis"},"status":"ok"}

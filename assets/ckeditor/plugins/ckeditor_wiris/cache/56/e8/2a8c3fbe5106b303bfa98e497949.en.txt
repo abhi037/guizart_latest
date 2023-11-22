@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 4 cross times 10 to the power of negative sign 7 end exponent"},"status":"ok"}

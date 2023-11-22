@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight A space straight alpha left parenthesis straight T subscript 1 superscript 2 minus straight T subscript 2 superscript 2 right parenthesis over denominator calligraphic l end fraction"},"status":"ok"}

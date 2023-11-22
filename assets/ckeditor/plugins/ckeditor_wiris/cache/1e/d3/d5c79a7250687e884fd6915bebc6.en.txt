@@ -1,0 +1,1 @@
+{"result":{"text":"text  Fundamental frequency of wire  end text open parentheses straight f subscript text moe  end text end subscript close parentheses equals fraction numerator straight v over denominator 2 straight ell end fraction"},"status":"ok"}

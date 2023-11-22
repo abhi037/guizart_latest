@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight v subscript straight c over denominator 4 straight v end fraction"},"status":"ok"}

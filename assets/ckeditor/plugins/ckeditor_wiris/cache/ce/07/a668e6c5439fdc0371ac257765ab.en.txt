@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses fraction numerator straight n minus 1 over denominator straight n end fraction close parentheses squared"},"status":"ok"}

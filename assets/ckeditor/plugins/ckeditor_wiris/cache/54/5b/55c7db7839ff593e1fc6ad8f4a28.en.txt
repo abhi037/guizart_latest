@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell x subscript 1 equals a sin open parentheses omega t plus ϕ subscript 1 close parentheses end cell row cell x subscript 2 equals a sin open parentheses omega t plus ϕ subscript 2 close parentheses end cell end table"},"status":"ok"}

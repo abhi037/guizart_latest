@@ -1,0 +1,1 @@
+{"result":{"text":"straight F over sinθ cosθ space space space mg\nstraight F space"},"status":"ok"}

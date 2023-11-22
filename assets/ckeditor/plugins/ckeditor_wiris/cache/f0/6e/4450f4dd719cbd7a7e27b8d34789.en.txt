@@ -1,0 +1,1 @@
+{"result":{"text":"FA squared straight T"},"status":"ok"}

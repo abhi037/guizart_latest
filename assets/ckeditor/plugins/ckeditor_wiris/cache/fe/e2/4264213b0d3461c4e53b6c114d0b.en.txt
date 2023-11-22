@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of straight a squared plus straight b squared end root over denominator straight ell end fraction"},"status":"ok"}

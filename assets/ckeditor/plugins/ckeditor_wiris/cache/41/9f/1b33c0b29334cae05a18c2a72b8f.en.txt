@@ -1,0 +1,1 @@
+{"result":{"text":"omega left parenthesis text  rad/sec) for which the block of mass  end text m text  just does not slide down the wedge?  end text"},"status":"ok"}

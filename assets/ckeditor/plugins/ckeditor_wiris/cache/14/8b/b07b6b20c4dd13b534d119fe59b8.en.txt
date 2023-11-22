@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 12 minus square root of 68 plus 48 square root of 2 end root end root text  is equal to  end text"},"status":"ok"}

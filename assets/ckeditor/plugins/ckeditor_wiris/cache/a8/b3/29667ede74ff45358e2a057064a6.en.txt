@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses fifth root of 2 close parentheses to the power of 1 divided by 2 end exponent"},"status":"ok"}

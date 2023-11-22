@@ -1,0 +1,1 @@
+{"result":{"text":"starts space to space move space up space the space incline space with space speed space straight u space cosθ.\nspace Hence space as space straight theta space increases comma space the space height space to space which space the space particle space rises space shall space decrease."},"status":"ok"}

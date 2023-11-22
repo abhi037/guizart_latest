@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell A equals 26 divided by 25    n equals 25 straight d equals 1 end cell row cell S subscript 25 equals 25 over 2 open square brackets 52 over 25 plus 24 close square brackets equals 326 end cell end table"},"status":"ok"}

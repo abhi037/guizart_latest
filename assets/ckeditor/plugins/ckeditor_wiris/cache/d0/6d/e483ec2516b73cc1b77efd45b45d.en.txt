@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 straight v squared over denominator straight g end fraction"},"status":"ok"}

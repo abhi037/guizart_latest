@@ -1,0 +1,1 @@
+{"result":{"text":"raíz cuadrada de c x c fin raíz"},"status":"ok"}

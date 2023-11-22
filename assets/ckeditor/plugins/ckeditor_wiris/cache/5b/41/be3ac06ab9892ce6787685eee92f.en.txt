@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 23 straight R over denominator 6 end fraction"},"status":"ok"}

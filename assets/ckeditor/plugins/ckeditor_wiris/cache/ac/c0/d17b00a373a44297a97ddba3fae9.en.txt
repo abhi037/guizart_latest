@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Hence  end text end cell row cell straight m left parenthesis straight b minus straight a right parenthesis equals straight F minus 2 kx end cell row cell text  Ans  end text left parenthesis straight C right parenthesis end cell end table"},"status":"ok"}

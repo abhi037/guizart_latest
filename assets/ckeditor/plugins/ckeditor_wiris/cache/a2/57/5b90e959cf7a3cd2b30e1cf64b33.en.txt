@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight lambda over denominator 4 space sin space straight alpha end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"Each space piece space moves space with space speed space greater space than space straight v divided by 2."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight N space cos 60 degree minus straight F equals ma equals fraction numerator mF over denominator 2 straight m end fraction text  solving  end text comma straight N equals 3 space straight F"},"status":"ok"}

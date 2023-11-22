@@ -1,0 +1,1 @@
+{"result":{"text":"a space greater or equal than space b sum from blank to blank of j"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight v subscript 2 minus straight v subscript 1 equals 1 half left parenthesis 10 right parenthesis end cell row cell straight v subscript 2 minus straight v subscript 1 equals 5 straight m divided by straight s end cell end table"},"status":"ok"}

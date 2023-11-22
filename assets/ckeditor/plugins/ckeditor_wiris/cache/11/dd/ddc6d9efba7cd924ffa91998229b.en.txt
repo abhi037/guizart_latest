@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator 1 minus straight u divided by straight v over denominator 1 plus straight u divided by straight v end fraction end root"},"status":"ok"}

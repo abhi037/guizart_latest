@@ -1,0 +1,1 @@
+{"result":{"text":"straight v squared over straight g"},"status":"ok"}

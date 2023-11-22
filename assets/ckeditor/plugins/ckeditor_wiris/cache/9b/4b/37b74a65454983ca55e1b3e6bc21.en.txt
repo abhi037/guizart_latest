@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator square root of straight v squared plus straight u squared end root over denominator straight v end fraction"},"status":"ok"}

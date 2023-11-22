@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style straight d equals 5 minus fraction numerator negative 5 over denominator 2 end fraction equals 5 over 2 end style"},"status":"ok"}

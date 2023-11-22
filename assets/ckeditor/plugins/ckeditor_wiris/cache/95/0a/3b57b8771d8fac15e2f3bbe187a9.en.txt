@@ -1,0 +1,1 @@
+{"result":{"text":"straight f subscript straight k equals straight mu subscript straight k"},"status":"ok"}

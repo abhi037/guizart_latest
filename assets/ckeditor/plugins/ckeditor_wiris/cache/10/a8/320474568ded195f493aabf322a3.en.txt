@@ -1,0 +1,1 @@
+{"result":{"text":"straight a equals straight a subscript cm plus rα space space space space space space space space space space space space space.... left parenthesis 4 right parenthesis"},"status":"ok"}

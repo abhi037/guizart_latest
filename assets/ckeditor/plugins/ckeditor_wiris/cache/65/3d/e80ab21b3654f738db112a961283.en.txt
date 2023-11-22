@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 straight m over denominator straight mu minus 1 end fraction"},"status":"ok"}

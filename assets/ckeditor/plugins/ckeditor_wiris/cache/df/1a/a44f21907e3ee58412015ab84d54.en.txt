@@ -1,0 +1,1 @@
+{"result":{"text":"straight a subscript cm equals straight alpha space straight r"},"status":"ok"}

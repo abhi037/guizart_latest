@@ -1,0 +1,1 @@
+{"result":{"text":"open square brackets table row cell straight u squared end cell row straight R end table minus table row cell straight v squared end cell row straight R end table close square brackets space plus space 2 mg."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style The space distance space between space the space points space A space left parenthesis 0 comma space 6 right parenthesis space and space B space left parenthesis 0 comma space minus sign space 2 right parenthesis space is end style"},"status":"ok"}

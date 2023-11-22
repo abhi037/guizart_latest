@@ -1,0 +1,1 @@
+{"result":{"text":"8 straight E subscript 0"},"status":"ok"}

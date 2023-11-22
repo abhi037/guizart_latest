@@ -1,0 +1,1 @@
+{"result":{"text":"stack straight v subscript 1 with rightwards arrow on top"},"status":"ok"}

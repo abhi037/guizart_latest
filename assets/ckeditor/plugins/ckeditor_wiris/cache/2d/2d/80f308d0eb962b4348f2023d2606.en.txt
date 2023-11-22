@@ -1,0 +1,1 @@
+{"result":{"text":"stack straight v subscript straight c with rightwards harpoon with barb upwards on top"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript 1 divided by straight v subscript 2"},"status":"ok"}

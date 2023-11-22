@@ -1,0 +1,1 @@
+{"result":{"text":"straight N subscript straight c space equals space mg space plus space mV squared over straight R subscript straight c"},"status":"ok"}

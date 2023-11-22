@@ -1,0 +1,1 @@
+{"result":{"text":"5 straight x fraction numerator 0.5 over denominator 50 end fraction equals space 0.05 mm\n"},"status":"ok"}

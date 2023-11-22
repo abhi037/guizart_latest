@@ -1,0 +1,1 @@
+{"result":{"text":"straight r subscript min"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"negative sign 3.4 eV"},"status":"ok"}

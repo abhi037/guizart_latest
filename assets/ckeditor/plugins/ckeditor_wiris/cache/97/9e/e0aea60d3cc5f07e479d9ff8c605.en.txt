@@ -1,0 +1,1 @@
+{"result":{"text":"During space colision space KE text  of system is not constant, hence statement-  end text 1 space is space false"},"status":"ok"}

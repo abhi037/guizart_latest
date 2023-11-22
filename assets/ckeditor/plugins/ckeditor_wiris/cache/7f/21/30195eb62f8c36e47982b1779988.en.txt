@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style The space perimeter space of space a space triangle space with space vertices space left parenthesis 0 comma space 4 right parenthesis comma space left parenthesis 0 comma space 0 right parenthesis space and space left parenthesis 3 comma space 0 right parenthesis space is end style"},"status":"ok"}

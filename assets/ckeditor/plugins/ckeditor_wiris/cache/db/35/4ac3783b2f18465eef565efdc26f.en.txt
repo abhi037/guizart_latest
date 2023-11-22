@@ -1,0 +1,1 @@
+{"result":{"text":"1 half open parentheses fraction numerator 72 straight v squared over denominator 25 πR end fraction close parentheses straight t squared minus πR space equals vt"},"status":"ok"}

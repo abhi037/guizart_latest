@@ -1,0 +1,1 @@
+{"result":{"text":"straight N subscript straight a space equals space mg space minus space mV squared over straight R subscript straight a space space space space space rightwards double arrow and space At space straight C space space space space"},"status":"ok"}

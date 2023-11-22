@@ -1,0 +1,1 @@
+{"result":{"text":"straight u subscript 0 space equals space square root of 3 g divided by 2 end root"},"status":"ok"}

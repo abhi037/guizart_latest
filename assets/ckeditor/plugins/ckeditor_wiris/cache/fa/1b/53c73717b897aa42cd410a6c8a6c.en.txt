@@ -1,0 +1,1 @@
+{"result":{"text":"straight F with rightwards arrow on top equals 4 xy straight i with hat on top space plus space 2 straight x squared less or equal than straight j with hat on top space is space colon"},"status":"ok"}

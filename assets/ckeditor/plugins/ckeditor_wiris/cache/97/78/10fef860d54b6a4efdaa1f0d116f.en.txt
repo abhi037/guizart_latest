@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 19 minus 4 square root of 3 end root u over 2 straight m divided by straight s"},"status":"ok"}

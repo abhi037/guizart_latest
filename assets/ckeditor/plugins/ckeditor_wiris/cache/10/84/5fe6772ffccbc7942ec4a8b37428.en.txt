@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Phenelzine is an antidepressant, while others are  end text end cell row cell text  antacids.  end text end cell end table"},"status":"ok"}

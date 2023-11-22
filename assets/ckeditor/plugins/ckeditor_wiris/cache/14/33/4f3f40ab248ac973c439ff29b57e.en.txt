@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style DE over QR equals DF over PQ end style"},"status":"ok"}

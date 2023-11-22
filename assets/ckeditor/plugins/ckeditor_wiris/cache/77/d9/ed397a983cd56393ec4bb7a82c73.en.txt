@@ -1,0 +1,1 @@
+{"result":{"text":"calligraphic l subscript 3 space equals space 214 space cm"},"status":"ok"}

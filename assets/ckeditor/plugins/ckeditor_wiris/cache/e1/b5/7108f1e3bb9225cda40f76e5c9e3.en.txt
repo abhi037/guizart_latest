@@ -1,0 +1,1 @@
+{"result":{"text":"space straight L with rightwards harpoon with barb upwards on top space is space constant"},"status":"ok"}

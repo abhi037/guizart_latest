@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis 4 divided by square root of 3 right parenthesis text  x Atomic radius  end text"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  A smooth tube of certain mass is rotated in gravity free space and released. The two balls shown in the  end text end cell row cell text  figure move towards ends of the tube. For the whole system which of the following quantity is not  end text end cell end table\nconserved ?"},"status":"ok"}

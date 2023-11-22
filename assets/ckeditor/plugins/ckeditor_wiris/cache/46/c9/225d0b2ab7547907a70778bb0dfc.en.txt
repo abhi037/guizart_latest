@@ -1,0 +1,1 @@
+{"result":{"text":"straight R over 4"},"status":"ok"}

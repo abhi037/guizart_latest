@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell Al subscript 2 O subscript 3 text  is mixed with  end text Ca F subscript 2 text  which lowers the melting point  end text end cell row cell text  of the mixture and brings conductivity  end text end cell end table"},"status":"ok"}

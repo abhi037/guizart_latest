@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style By space using space the space distance space formula colon space space d squared space equals space left parenthesis x subscript 2 space minus sign space x subscript 1 right parenthesis squared space plus space left parenthesis y subscript 2 space minus sign space y subscript 1 right parenthesis squared end style"},"status":"ok"}

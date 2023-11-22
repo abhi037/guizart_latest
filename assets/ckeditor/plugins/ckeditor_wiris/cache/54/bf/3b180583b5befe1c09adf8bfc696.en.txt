@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style If space increment ABC space tilde space increment QRP comma space AB space equals space 18 space cm space and space B C space equals space 15 space cm comma space then space PR space is space equals space to comma end style"},"status":"ok"}

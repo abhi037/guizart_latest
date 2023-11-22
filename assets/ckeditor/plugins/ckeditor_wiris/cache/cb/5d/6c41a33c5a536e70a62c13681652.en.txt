@@ -1,0 +1,1 @@
+{"result":{"text":"text  Average potential energy with respect to time  end text"},"status":"ok"}

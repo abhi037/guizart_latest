@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 MV over denominator straight pi end fraction"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"1 comma 1 minus sign text  Diphenyl  end text minus sign 1 minus sign text  propene  end text"},"status":"ok"}

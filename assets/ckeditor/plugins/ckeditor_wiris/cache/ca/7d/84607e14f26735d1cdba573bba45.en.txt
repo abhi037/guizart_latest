@@ -1,0 +1,1 @@
+{"result":{"text":"italic E subscript text cell  end text end subscript superscript 0 equals 0 minus sign left parenthesis minus sign 0.76 right parenthesis equals 0.76 V"},"status":"ok"}

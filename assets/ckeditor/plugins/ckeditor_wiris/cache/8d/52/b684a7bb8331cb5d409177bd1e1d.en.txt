@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight F times Kx equals mb end cell row cell text  and  end text    kx equals ma end cell end table"},"status":"ok"}

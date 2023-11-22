@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell cn left parenthesis ax plus by minus 1 right parenthesis plus left parenthesis straight y minus straight c right parenthesis equals 0 end cell blank row cell text end text end cell cell text end text end cell end table"},"status":"ok"}

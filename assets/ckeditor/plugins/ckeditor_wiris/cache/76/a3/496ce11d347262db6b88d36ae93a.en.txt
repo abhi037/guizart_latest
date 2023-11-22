@@ -1,0 +1,1 @@
+{"result":{"text":"straight M over 4 times straight g times straight R over 2 equals MgR over 8"},"status":"ok"}

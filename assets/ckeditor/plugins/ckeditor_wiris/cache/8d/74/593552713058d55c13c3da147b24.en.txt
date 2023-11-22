@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses straight x squared over straight a squared plus straight y squared over straight b squared close parentheses fraction numerator 2 straight b over denominator straight y end fraction equals 1"},"status":"ok"}

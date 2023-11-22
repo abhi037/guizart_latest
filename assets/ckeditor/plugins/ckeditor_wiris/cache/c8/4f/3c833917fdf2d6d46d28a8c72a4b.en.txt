@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style In space figure comma space if space angle BAC space equals space 90 degree space and space AD space perpendicular space B C point space Then comma end style"},"status":"ok"}

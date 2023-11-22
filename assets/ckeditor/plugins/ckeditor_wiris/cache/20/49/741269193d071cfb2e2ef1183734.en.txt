@@ -1,0 +1,1 @@
+{"result":{"text":"text  If slope of a  end text straight pi over 3 text  - chord of  end text straight x squared plus straight y squared equals 4 text  is  end text 1 comma text  then its equation is-  end text"},"status":"ok"}

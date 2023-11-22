@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Statement-1: A SHM may be assumed as composition of many SHM's.  end text end cell row cell text  Statement-2: Superposition of many SHM's (along same line) of same frequency will be a SHM.  end text end cell end table"},"status":"ok"}

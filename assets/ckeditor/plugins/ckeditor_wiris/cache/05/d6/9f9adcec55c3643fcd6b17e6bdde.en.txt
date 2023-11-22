@@ -1,0 +1,1 @@
+{"result":{"text":"straight m subscript 3 less than straight m subscript 2 less than straight m subscript 4 less than straight m subscript 1"},"status":"ok"}

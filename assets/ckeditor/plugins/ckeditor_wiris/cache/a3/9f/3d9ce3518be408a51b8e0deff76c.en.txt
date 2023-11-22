@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript straight g space is space positive space so space straight W subscript ext space less than space 0"},"status":"ok"}

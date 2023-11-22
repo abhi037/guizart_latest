@@ -1,0 +1,1 @@
+{"result":{"text":"2 straight pi square root of fraction numerator 5 calligraphic l subscript 0 over denominator 7 straight g end fraction end root"},"status":"ok"}

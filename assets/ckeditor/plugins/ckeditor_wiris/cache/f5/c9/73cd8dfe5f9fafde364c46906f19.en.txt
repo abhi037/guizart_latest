@@ -1,0 +1,1 @@
+{"result":{"text":"straight x subscript 0 space equals space mg over straight k"},"status":"ok"}

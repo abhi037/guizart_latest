@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator space straight F subscript 0 straight x subscript 0 over denominator straight m end fraction end root"},"status":"ok"}

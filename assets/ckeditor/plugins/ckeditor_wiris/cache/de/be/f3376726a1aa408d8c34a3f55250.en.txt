@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator mga squared over denominator square root of 4 straight I end fraction"},"status":"ok"}

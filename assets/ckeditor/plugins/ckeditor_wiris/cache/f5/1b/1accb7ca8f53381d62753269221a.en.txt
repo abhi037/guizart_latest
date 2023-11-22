@@ -1,0 +1,1 @@
+{"result":{"text":"straight h subscript 1 space end subscript less than space straight h subscript 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"3 straight x squared plus 4 straight y squared equals 4 straight x squared straight y squared"},"status":"ok"}

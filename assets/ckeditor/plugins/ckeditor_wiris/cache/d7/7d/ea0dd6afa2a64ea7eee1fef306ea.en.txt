@@ -1,0 +1,1 @@
+{"result":{"text":"straight M subscript text  final  end text end subscript equals pi. open parentheses straight R over 2 close parentheses squared times straight L times rho equals straight M subscript straight i over 4\n"},"status":"ok"}

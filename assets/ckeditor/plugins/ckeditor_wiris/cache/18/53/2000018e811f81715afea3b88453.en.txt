@@ -1,0 +1,1 @@
+{"result":{"text":"straight r with rightwards harpoon with barb upwards on top"},"status":"ok"}

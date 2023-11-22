@@ -1,0 +1,1 @@
+{"result":{"text":"space straight theta over 2 equals space dm"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text  Total number of angular nodes in all the orbitals in  end text left parenthesis italic n minus sign 1 right parenthesis to the power of text th  end text end exponent text  shell is  end text 13 text  .  end text"},"status":"ok"}

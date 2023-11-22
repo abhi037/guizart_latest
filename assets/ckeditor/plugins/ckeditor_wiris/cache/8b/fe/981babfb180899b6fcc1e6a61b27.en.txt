@@ -1,0 +1,1 @@
+{"result":{"text":"mg space plus space straight pi squared over straight T squared straight m space straight A"},"status":"ok"}

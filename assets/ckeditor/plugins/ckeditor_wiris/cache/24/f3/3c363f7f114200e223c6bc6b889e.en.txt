@@ -1,0 +1,1 @@
+{"result":{"text":"cosθ space equals straight x over straight R equals 1 over straight R comma space fraction numerator 3 straight R over denominator 5 end fraction equals 3 over 5"},"status":"ok"}

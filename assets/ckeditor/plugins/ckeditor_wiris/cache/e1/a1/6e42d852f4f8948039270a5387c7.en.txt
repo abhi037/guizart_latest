@@ -1,0 +1,1 @@
+{"result":{"text":"straight g space sin space straight alpha open parentheses 1 plus straight M over straight m close parentheses text  down the incline  end text"},"status":"ok"}

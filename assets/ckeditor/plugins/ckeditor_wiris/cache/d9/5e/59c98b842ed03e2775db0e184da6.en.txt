@@ -1,0 +1,1 @@
+{"result":{"text":"text  path difference  end text ΔP space equals 10 straight lambda space equals 10 cm text  so  end text straight lambda equals 1 cm. text  Ans.  end text"},"status":"ok"}

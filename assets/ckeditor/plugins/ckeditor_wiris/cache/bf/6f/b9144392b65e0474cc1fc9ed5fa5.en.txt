@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 1 half close parentheses to the power of 1 divided by 3 end exponent"},"status":"ok"}

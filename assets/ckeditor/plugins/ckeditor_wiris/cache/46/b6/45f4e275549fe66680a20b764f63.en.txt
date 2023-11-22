@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style 2 x squared minus 3 square root of 2 x plus 9 over 4 equals 0 end style"},"status":"ok"}

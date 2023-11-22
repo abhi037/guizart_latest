@@ -1,0 +1,1 @@
+{"result":{"text":"raíz cuadrada de w e fin raíz"},"status":"ok"}

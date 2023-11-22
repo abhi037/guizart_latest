@@ -1,0 +1,1 @@
+{"result":{"text":"plus 6.8 eV"},"status":"ok"}

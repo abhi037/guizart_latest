@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses fraction numerator square root of 3 straight g end root over denominator 2 straight R end fraction close parentheses to the power of 1 divided by 2 end exponent"},"status":"ok"}

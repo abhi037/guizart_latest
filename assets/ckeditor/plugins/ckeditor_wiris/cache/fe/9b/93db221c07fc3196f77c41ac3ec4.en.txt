@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Assertion : Kinetic energy of SHM at mean position is equal to potential energy at ends for a particle  end text end cell row cell text  moving in SHM.  end text end cell row cell text  Reason : Total energy in SHM is conserved.  end text end cell end table"},"status":"ok"}

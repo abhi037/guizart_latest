@@ -1,0 +1,1 @@
+{"result":{"text":"BD point CD space equals space B C"},"status":"ok"}

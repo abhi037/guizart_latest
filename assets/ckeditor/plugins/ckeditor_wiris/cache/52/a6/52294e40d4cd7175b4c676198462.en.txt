@@ -1,0 +1,1 @@
+{"result":{"text":"straight f equals fraction numerator straight v over denominator 4 ell end fraction comma fraction numerator 3 straight v over denominator 4 ell end fraction comma fraction numerator 5 straight v over denominator 4 ell end fraction    text  cannot match with  end text straight f subscript wire"},"status":"ok"}

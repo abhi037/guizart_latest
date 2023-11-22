@@ -1,0 +1,1 @@
+{"result":{"text":"straight x space equals space straight u subscript straight x space straight t space equals space square root of fraction numerator 2 straight h over denominator straight g end fraction end root straight x square root of 2 hg end root space equals space 2 straight h"},"status":"ok"}

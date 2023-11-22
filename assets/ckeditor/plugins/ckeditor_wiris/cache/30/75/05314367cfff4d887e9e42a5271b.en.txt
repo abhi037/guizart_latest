@@ -1,0 +1,1 @@
+{"result":{"text":"1.8 straight t minus straight mu subscript straight k 15 equals 1.5 left parenthesis 1.2 straight t minus 2.4 right parenthesis\nFor space straight t space equals space 2.85 space sec.\nstraight mu space equals space 0.24"},"status":"ok"}

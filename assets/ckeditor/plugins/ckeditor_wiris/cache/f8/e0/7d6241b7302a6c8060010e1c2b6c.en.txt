@@ -1,0 +1,1 @@
+{"result":{"text":"straight T space cos space straight theta space minus space mg space equals space 0"},"status":"ok"}

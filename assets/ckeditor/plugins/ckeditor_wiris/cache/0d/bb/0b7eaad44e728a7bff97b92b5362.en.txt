@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style PR point QR space equals space RS squared end style"},"status":"ok"}

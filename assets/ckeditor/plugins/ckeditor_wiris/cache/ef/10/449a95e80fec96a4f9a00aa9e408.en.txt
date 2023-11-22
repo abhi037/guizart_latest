@@ -1,0 +1,1 @@
+{"result":{"text":"1 over 24 mω squared straight L squared"},"status":"ok"}

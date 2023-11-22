@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  The equation to the locus of the middle point of the portion of the tangent to the ellipse  end text straight x squared over 16 plus straight y squared over 9 equals 1 end cell row cell text  included between the co-ordinate axes is the curve:  end text end cell end table"},"status":"ok"}

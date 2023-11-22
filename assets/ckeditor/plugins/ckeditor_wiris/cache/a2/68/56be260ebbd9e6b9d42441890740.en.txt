@@ -1,0 +1,1 @@
+{"result":{"text":"text  The points  end text straight A left parenthesis 0 comma 0 right parenthesis comma straight B left parenthesis cosα comma sinα right parenthesis text  and  end text straight C left parenthesis cosβ comma sinβ right parenthesis text  are the vertices of a right angled triangle if  end text"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"v subscript B space end subscript equals square root of 2 g l space sin empty set end root"},"status":"ok"}

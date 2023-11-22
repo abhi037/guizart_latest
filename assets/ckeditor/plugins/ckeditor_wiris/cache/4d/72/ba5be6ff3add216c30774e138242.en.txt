@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 0.5 over denominator 50 end fraction space minus space 0.05 space m m"},"status":"ok"}

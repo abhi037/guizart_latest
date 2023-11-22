@@ -1,0 +1,1 @@
+{"result":{"text":"a-th root of square root of a end root"},"status":"ok"}

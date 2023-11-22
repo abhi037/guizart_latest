@@ -1,0 +1,1 @@
+{"result":{"text":"3 straight V subscript 0 divided by 4"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell therefore    mgsin 37 minus μmgcos 37 equals mω squared straight r end cell row cell 6 minus 8 straight mu equals 4.5 end cell row cell therefore    straight mu equals 3 over 16 end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 5 πR over denominator 6 straight v end fraction"},"status":"ok"}

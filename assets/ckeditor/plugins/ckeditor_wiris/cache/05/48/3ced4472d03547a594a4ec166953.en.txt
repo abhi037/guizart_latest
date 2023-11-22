@@ -1,0 +1,1 @@
+{"result":{"text":"tanαtanβ equals negative 1    rightwards double arrow    cos left parenthesis straight alpha minus straight beta right parenthesis equals 0    rightwards double arrow    straight alpha minus straight beta equals straight pi over 2"},"status":"ok"}

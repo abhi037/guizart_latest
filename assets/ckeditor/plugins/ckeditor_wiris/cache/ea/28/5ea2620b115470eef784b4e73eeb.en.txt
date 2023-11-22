@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell 2 to the power of straight n minus straight n minus 1 end cell row blank row blank row blank end table"},"status":"ok"}

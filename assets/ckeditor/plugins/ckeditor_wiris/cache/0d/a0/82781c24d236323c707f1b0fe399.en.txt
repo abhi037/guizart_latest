@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  initial velocity is perpendicular to constant force, hence the path will be parabolic with speed of particle  end text end cell row cell text  increasing.  end text end cell end table"},"status":"ok"}

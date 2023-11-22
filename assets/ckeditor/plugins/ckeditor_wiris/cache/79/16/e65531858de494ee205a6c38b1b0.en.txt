@@ -1,0 +1,1 @@
+{"result":{"text":"straight F subscript net space equals space Ma space equals space Mg space cotθ"},"status":"ok"}

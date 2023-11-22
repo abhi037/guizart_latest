@@ -1,0 +1,1 @@
+{"result":{"text":"straight y to the power of apostrophe equals 0.5 Asin left parenthesis kx plus ωt plus straight theta right parenthesis"},"status":"ok"}

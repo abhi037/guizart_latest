@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared plus straight y squared minus 4 straight x minus 6 straight y minus 27 equals 0"},"status":"ok"}

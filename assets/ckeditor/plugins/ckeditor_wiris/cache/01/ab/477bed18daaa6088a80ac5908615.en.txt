@@ -1,0 +1,1 @@
+{"result":{"text":"3 space straight x plus 4 space straight y plus 22 equals 0"},"status":"ok"}

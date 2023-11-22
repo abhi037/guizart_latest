@@ -1,0 +1,1 @@
+{"result":{"text":"u subscript x equals 400 divided by 3"},"status":"ok"}

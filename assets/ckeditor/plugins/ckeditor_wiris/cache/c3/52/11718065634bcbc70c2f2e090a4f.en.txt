@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  The wave motion of electron in a Bohr's orbit of hydrogen is as shown in diagram. The potential energy of  end text end cell row cell text  electron in the given orbit of hydrogen atom is:  end text end cell end table"},"status":"ok"}

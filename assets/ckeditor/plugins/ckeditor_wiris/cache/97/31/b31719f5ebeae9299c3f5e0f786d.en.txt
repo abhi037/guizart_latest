@@ -1,0 +1,1 @@
+{"result":{"text":"straight F with rightwards arrow on top subscript net equals 100 cross times 3 straight i with hat on top space space space space space space space space space space space space.... left parenthesis 1 right parenthesis"},"status":"ok"}

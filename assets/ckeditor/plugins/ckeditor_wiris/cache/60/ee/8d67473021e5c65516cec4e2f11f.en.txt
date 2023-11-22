@@ -1,0 +1,1 @@
+{"result":{"text":"straight g over 3 downwards arrow comma straight g over 3 upwards arrow"},"status":"ok"}

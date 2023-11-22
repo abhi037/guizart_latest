@@ -1,0 +1,1 @@
+{"result":{"text":"equals 1 half M. cross times P squared over M plus 1 half times 2 over 5 M R squared times fraction numerator 4 P squared over denominator M squared R squared end fraction    equals fraction numerator 13 P squared over denominator 10 M end fraction"},"status":"ok"}

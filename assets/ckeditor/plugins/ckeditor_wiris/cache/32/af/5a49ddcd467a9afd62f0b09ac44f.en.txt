@@ -1,0 +1,1 @@
+{"result":{"text":"2 straight pi square root of space fraction numerator mL squared over denominator mgL space plus kh end fraction end root"},"status":"ok"}

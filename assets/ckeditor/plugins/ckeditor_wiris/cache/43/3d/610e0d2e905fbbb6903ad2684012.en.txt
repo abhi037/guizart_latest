@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 13 over 7 comma 13 over 7 close parentheses   "},"status":"ok"}

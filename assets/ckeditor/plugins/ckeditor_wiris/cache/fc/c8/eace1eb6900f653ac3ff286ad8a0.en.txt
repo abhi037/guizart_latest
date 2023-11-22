@@ -1,0 +1,1 @@
+{"result":{"text":"square root of straight v subscript straight B space end subscript superscript 2 plus space straight v subscript straight c space end subscript superscript 2 minus 2 straight v subscript straight B straight v subscript straight c sin end root"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"integral fraction numerator straight d t over denominator square root of 2 a with dot on top t minus t squared end root end fraction equals a x sin minus 1 open square brackets t over a minus 1 close square brackets"},"status":"ok"}

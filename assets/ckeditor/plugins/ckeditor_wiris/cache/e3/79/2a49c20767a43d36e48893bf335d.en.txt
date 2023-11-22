@@ -1,0 +1,1 @@
+{"result":{"text":"straight A subscript 1 over straight A subscript 2 equals space fraction numerator straight L subscript 1 space end subscript straight alpha subscript 1 space straight y subscript 1 over denominator straight L subscript 2 space end subscript straight alpha subscript 2 space straight y subscript 2 end fraction"},"status":"ok"}

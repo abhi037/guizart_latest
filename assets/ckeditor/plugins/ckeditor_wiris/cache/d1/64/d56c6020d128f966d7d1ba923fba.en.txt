@@ -1,0 +1,1 @@
+{"result":{"text":"straight s subscript 1 equals fraction numerator straight v squared over denominator 2 straight a end fraction"},"status":"ok"}

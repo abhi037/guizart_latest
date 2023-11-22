@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight theta subscript 2 less than straight theta subscript 1 text  and no other conclusion can  be derived end text end cell row blank end table"},"status":"ok"}

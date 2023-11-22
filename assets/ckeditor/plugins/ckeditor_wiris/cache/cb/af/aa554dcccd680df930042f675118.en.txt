@@ -1,0 +1,1 @@
+{"result":{"text":"text  If highest energy photon emitted from the above sample is incident on the metal plate having work  end text"},"status":"ok"}

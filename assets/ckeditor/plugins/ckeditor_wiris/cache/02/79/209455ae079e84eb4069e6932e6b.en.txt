@@ -1,0 +1,1 @@
+{"result":{"text":"straight t subscript 1 superscript apostrophe equals straight d over straight v semicolon    straight t subscript 2 superscript apostrophe equals straight d over straight v    therefore    fraction numerator straight f subscript 1 superscript apostrophe over denominator straight t subscript 2 superscript apostrophe end fraction equals 1"},"status":"ok"}

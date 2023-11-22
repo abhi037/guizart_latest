@@ -1,0 +1,1 @@
+{"result":{"text":"cosecθ space equals 5 over 4"},"status":"ok"}

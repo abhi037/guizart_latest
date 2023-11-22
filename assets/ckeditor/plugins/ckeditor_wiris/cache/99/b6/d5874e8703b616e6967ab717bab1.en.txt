@@ -1,0 +1,1 @@
+{"result":{"text":"straight t subscript 1 divided by straight t subscript 2"},"status":"ok"}

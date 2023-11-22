@@ -1,0 +1,1 @@
+{"result":{"text":"10 to the power of 9 space straight N divided by straight m squared"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight v equals straight omega over straight k equals square root of straight B over straight p end root"},"status":"ok"}

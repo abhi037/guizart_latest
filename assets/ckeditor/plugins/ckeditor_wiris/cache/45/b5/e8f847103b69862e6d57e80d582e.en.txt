@@ -1,0 +1,1 @@
+{"result":{"text":"capital sigma straight F with rightwards arrow on top subscript ext equals 0 with rightwards arrow on top therefore"},"status":"ok"}

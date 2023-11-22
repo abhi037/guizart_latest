@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight a plus straight b over denominator straight ell end fraction"},"status":"ok"}

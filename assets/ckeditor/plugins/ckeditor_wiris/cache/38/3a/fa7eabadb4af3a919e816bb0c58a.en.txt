@@ -1,0 +1,1 @@
+{"result":{"text":"Moment space of space inertia space of space the space rod space about space straight w. straight r. straight t. space the space axis space through space centre space of space the space disc space 1\nto space the space plans space line space is space colon space left parenthesis by space parallel space axis space theorem right parenthesis."},"status":"ok"}

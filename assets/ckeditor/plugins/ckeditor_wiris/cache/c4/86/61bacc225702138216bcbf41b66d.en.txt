@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Average kinetic energy with respect to space  end text equals 1 third kA squared end cell row cell text  Average potential energy with respect to space  end text equals 1 over 6 kA squared end cell end table"},"status":"ok"}

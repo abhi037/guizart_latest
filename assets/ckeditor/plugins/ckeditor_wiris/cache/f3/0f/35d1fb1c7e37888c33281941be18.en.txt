@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight f subscript 0 Δℓ over denominator straight ell end fraction"},"status":"ok"}

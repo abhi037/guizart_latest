@@ -1,0 +1,1 @@
+{"result":{"text":"equals space mg space sin space straight theta space equals space mg space square root of 1 space minus space cos squared straight theta end root space equals space mg over straight T square root of straight T squared minus left parenthesis mg right parenthesis squared end root"},"status":"ok"}

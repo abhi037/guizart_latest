@@ -1,0 +1,1 @@
+{"result":{"text":"180 minus 53 to the power of 0"},"status":"ok"}

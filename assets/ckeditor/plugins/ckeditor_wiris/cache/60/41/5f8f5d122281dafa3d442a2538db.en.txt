@@ -1,0 +1,1 @@
+{"result":{"text":"straight m over 5 open parentheses 4 straight g space minus space 3 straight a close parentheses"},"status":"ok"}

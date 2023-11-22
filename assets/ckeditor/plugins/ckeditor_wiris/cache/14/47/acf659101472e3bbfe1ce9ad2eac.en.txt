@@ -1,0 +1,1 @@
+{"result":{"text":"1 half left parenthesis 200 right parenthesis space left parenthesis 6 right parenthesis squared space equals space 3600 space straight J."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript straight B over straight v subscript straight T"},"status":"ok"}

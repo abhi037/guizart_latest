@@ -1,0 +1,1 @@
+{"result":{"text":"9 straight x squared plus 16 straight y squared equals 4 straight x squared straight y squared"},"status":"ok"}

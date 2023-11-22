@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 7 straight u space straight m divided by straight s"},"status":"ok"}

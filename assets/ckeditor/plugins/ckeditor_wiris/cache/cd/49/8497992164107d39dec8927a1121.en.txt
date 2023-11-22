@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row blank row cell straight A union straight B equals straight N end cell row blank row blank end table"},"status":"ok"}

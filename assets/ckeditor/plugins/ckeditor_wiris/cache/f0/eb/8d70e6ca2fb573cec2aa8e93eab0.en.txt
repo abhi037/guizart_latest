@@ -1,0 +1,1 @@
+{"result":{"text":"straight M subscript text  initial  end text end subscript equals pi straight R squared. straight L times rho"},"status":"ok"}

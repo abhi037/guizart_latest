@@ -1,0 +1,1 @@
+{"result":{"text":"text  If both Assertion and Reason are true and the Reason is correct explanation of the Assertion.  end text"},"status":"ok"}

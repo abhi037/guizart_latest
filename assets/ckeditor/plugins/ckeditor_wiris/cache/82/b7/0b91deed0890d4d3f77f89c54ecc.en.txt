@@ -1,0 +1,1 @@
+{"result":{"text":"straight F equals straight N space sinθ    rightwards double arrow straight N equals straight F divided by sinθ"},"status":"ok"}

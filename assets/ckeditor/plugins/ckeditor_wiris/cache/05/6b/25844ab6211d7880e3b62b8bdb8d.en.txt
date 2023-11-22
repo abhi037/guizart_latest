@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight A to the power of straight C intersection straight B to the power of straight C end cell end table"},"status":"ok"}

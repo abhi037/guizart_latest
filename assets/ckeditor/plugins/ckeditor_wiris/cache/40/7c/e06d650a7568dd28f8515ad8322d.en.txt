@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style Given comma space space increment ABC space and space increment EDF comma space space space\nrightwards arrow space AB forward slash DE space equals space B C forward slash FD end style"},"status":"ok"}

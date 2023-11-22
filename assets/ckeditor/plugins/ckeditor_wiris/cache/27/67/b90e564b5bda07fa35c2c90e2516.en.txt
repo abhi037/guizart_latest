@@ -1,0 +1,1 @@
+{"result":{"text":"open vertical bar stack straight v subscript straight B with rightwards arrow on top minus stack straight v subscript straight c with rightwards arrow on top close vertical bar equals"},"status":"ok"}

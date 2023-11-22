@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator A over denominator 2 square root of 2 r cubed N end fraction"},"status":"ok"}

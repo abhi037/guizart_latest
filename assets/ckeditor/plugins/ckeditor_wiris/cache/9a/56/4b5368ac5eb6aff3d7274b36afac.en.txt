@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript min equals space square root of 5 gR end root space equals space square root of 5 straight x 10 straight x 2 end root space equals space 10 space straight m divided by straight s"},"status":"ok"}

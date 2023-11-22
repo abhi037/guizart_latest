@@ -1,0 +1,1 @@
+{"result":{"text":"mv squared over 1 space equals space mg space sinβ space space space space space space space space......... left parenthesis 1 right parenthesis space"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow space space space space tan space straight theta space equals 4 over 10 equals 2 over 5 space rightwards double arrow straight theta space space space equals space space tan to the power of negative 1 end exponent space left parenthesis 2 divided by 5 right parenthesis"},"status":"ok"}

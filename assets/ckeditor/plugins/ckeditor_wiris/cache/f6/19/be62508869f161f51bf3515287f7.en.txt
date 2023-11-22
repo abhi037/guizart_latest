@@ -1,0 +1,1 @@
+{"result":{"text":"straight x equals straight ell space cos space straight theta space space space space space space straight y equals straight ell space sin space straight theta space space space space space space space space space space space space space therefore    straight x squared plus straight y squared equals straight ell squared"},"status":"ok"}

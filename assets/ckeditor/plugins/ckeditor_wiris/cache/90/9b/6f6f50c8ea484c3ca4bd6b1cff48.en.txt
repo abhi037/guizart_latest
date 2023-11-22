@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  As  end text straight x text  increases, the required component of reaction decreases to zero and then increases (with direction  end text end cell row cell text  reversed). Hence statement-1 is false.  end text end cell end table"},"status":"ok"}

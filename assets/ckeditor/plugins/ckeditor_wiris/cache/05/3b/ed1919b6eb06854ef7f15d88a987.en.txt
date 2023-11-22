@@ -1,0 +1,1 @@
+{"result":{"text":"straight epsilon space equals space 1 cm space equals space 0.3 space straight d space space space space space space space space space space space straight d space equals space fraction numerator 1 cm over denominator 0.3 end fraction space equals space 3.3 space cm"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Radius of the circle  end text equals 2 end cell row cell text  distance from the origin  end text equals 2 cos straight pi over 3 equals 1 end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  As   end text capital sigma tau equals 0 end cell row cell 160 straight N cross times 4 cm equals straight f cross times 35 cm end cell row cell straight f equals fraction numerator 160 cross times 4 cm over denominator 35 cm end fraction equals 18.3 straight N end cell end table"},"status":"ok"}

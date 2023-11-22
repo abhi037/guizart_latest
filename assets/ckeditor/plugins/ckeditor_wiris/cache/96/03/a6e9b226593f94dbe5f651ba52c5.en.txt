@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text end text end cell cell text end text straight x minus straight y equals 0 semicolon straight x plus straight y plus 1 equals 0 end cell end table"},"status":"ok"}

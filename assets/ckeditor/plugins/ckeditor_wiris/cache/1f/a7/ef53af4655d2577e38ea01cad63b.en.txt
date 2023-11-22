@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style 2 straight x squared minus square root of 5 straight x plus 1 equals 0 end style"},"status":"ok"}

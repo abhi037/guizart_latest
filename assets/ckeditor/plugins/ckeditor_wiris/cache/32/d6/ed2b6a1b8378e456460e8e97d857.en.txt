@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 10 mg over denominator 7 end fraction"},"status":"ok"}

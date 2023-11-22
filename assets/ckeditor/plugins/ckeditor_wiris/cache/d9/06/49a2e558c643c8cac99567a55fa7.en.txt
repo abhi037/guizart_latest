@@ -1,0 +1,1 @@
+{"result":{"text":"straight x plus 7 straight y equals negative 7 square root of 2 text  and  end text straight x plus 7 straight y equals 3 square root of 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight ell over 2 open parentheses 1 plus straight pi over 12 close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight a divided by square root of 2"},"status":"ok"}

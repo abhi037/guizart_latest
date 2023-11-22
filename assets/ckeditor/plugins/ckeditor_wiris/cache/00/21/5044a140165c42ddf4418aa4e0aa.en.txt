@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  where,  end text straight ell text  is distance between point of suspension and centre of mass of the body. Thus, for the stick of  end text end cell row cell text  length L and mass  end text straight m colon end cell end table"},"status":"ok"}

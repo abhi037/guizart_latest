@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator Ft squared over denominator 2 straight m end fraction"},"status":"ok"}

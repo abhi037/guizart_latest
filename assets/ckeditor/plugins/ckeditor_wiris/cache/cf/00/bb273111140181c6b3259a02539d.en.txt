@@ -1,0 +1,1 @@
+{"result":{"text":"1.5 cross times 10 to the power of 10 Hz"},"status":"ok"}

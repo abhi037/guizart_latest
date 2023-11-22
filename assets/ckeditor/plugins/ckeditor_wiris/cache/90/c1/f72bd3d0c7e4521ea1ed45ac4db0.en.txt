@@ -1,0 +1,1 @@
+{"result":{"text":"2 minus sign text  Phenyl  end text minus sign 1 minus sign text  butene  end text"},"status":"ok"}

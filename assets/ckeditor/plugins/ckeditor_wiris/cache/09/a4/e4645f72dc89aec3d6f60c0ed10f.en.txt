@@ -1,0 +1,1 @@
+{"result":{"text":"2 straight f subscript 0"},"status":"ok"}

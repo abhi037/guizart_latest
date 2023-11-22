@@ -1,0 +1,1 @@
+{"result":{"text":"text  If  end text fraction numerator a over denominator b plus c end fraction comma fraction numerator b over denominator c plus a end fraction comma fraction numerator c over denominator a plus b end fraction text  are in  end text AP comma text  then  end text"},"status":"ok"}

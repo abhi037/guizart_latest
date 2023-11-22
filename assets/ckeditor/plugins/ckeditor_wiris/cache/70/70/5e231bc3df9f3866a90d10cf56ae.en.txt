@@ -1,0 +1,1 @@
+{"result":{"text":"square root of fraction numerator 2 straight h over denominator straight g end fraction end root"},"status":"ok"}

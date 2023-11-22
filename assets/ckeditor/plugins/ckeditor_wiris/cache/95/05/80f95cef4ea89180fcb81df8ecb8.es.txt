@@ -1,0 +1,1 @@
+{"result":{"text":"raíz con índice blanco y radical y raíz cuadrada de f y f y f y f y fin raíz fin raíz"},"status":"ok"}

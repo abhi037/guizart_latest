@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style square root of 2 straight x squared minus fraction numerator 3 over denominator square root of 2 end fraction straight x plus 1 equals 0 end style"},"status":"ok"}

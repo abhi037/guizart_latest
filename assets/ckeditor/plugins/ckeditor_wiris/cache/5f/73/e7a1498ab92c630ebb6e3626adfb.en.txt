@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses straight Y subscript text earth  end text end subscript equals 12.8 cross times 10 to the power of text io  end text end exponent pa comma space straight rho subscript text earth  end text end subscript equals 2000 kg divided by straight m cubed close parentheses"},"status":"ok"}

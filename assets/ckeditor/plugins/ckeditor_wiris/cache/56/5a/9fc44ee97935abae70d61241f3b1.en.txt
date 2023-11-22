@@ -1,0 +1,1 @@
+{"result":{"text":"straight v squared space equals space straight u squared space minus space 2 gh"},"status":"ok"}

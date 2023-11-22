@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left left end attributes row cell open parentheses 1 fifth comma fraction numerator negative 4 over denominator 5 end fraction close parentheses end cell blank blank blank end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text  since  end text straight S subscript 1 equals 0 text  and  end text straight S subscript 3 equals 0 text  has no radical axis  end text    therefore    text  radical centre does not exist  end text"},"status":"ok"}

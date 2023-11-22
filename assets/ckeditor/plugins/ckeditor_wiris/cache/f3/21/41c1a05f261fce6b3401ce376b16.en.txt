@@ -1,0 +1,1 @@
+{"result":{"text":"Initial space energy space 1 half left parenthesis 200 right parenthesis left parenthesis 6 right parenthesis to the power of 2 space end exponent equals 3600 space straight J\nReaching space straight A space colon space 1 half mv squared space equals space 3600 space straight J"},"status":"ok"}

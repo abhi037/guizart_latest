@@ -1,0 +1,1 @@
+{"result":{"text":"text  None of these  end text"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell pi over 2 end cell blank cell left parenthesis straight B right parenthesis pi over 3 end cell cell text  (C)  end text pi over 4 end cell cell text  (D)  end text pi over 6 end cell end table"},"status":"ok"}

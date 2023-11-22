@@ -1,0 +1,1 @@
+{"result":{"text":"straight ϕ subscript 1 minus straight ϕ subscript 2 equals straight pi over 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared plus straight y squared minus 2 straight x left parenthesis square root of 3 plus 1 right parenthesis minus 2 straight y left parenthesis square root of 3 plus 1 right parenthesis plus 6 plus 4 square root of 3 equals 0"},"status":"ok"}

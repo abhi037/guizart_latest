@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi over 2 minus fraction numerator 5 straight pi over denominator 36 end fraction equals fraction numerator 13 straight pi over denominator 36 end fraction space Ans."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"equals    1 half mv squared minus 2 cross times 1 half straight m open parentheses fraction numerator straight v over denominator square root of 3 end fraction close parentheses squared equals 1 over 6 mv squared"},"status":"ok"}

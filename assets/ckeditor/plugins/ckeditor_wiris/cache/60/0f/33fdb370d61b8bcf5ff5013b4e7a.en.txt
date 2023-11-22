@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow space space space straight v subscript 1 equals 6 over 14 straight x space straight v space space space space"},"status":"ok"}

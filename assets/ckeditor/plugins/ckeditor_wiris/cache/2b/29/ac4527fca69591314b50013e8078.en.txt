@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow space space space straight v subscript straight c colon straight v subscript straight a space equals space 1 space colon space 2 space space space space space space space"},"status":"ok"}

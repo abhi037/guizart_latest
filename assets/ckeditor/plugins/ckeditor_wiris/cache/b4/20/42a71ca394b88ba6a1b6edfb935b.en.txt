@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Hydrogen atoms in a particular excited state 'n', when all returned to ground state,  end text 6 text  different photons are  end text end cell row cell text  emitted. Which of the following is/are incorrect.  end text end cell end table"},"status":"ok"}

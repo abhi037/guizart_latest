@@ -1,0 +1,1 @@
+{"result":{"text":"straight y space equals space straight x squared minus straight t squared"},"status":"ok"}

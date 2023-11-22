@@ -1,0 +1,1 @@
+{"result":{"text":"3 straight I subscript 0"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"mu squared over straight R space plus space mg space space rightwards double arrow space space"},"status":"ok"}

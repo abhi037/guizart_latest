@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 mgh over denominator 5 end fraction"},"status":"ok"}

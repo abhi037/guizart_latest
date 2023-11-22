@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript straight g plus straight W subscript ext equals 0 space left parenthesis Because space moved space slowly right parenthesis\nstraight W subscript ext equals negative straight W subscript straight g\n"},"status":"ok"}

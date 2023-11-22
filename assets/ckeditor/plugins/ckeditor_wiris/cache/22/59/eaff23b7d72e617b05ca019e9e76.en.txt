@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  ball C with an initial velocity as shown in the figure. Total number of collisions between the balls will  end text end cell row cell text  be: (All collisions are elastic)  end text end cell end table"},"status":"ok"}

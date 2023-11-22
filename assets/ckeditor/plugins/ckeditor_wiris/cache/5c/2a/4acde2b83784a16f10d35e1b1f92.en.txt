@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses fraction numerator Ft squared over denominator 2 straight m end fraction minus straight x subscript 0 close parentheses"},"status":"ok"}

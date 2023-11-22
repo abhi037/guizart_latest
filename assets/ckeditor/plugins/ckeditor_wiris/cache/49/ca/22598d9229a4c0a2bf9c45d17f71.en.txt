@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style 3. space Given space left parenthesis square root of 2 straight x plus square root of 3 right parenthesis squared equals 3 straight x squared minus 5 straight x end style"},"status":"ok"}

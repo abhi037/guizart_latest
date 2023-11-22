@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight a squared straight b cubed over denominator straight c square root of straight d end fraction"},"status":"ok"}

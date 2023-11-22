@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  shifting of equilibrium towards reactants due to elastic  end text end cell row cell text  collisions  end text end cell end table"},"status":"ok"}

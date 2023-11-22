@@ -1,0 +1,1 @@
+{"result":{"text":"straight U space equals space space 2 straight x squared straight y space plus space constant"},"status":"ok"}

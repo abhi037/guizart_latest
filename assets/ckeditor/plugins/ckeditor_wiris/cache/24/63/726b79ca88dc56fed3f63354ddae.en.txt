@@ -1,0 +1,1 @@
+{"result":{"text":"text  or  end text    straight alpha equals 1 over straight L squared open parentheses gL plus kh squared over straight m close parentheses straight theta"},"status":"ok"}

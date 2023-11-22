@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  Beat frequency observed by the driver corresponding to sound waves reflected from wall  end text minus 1 text  and wall-  end text 2 text  (reflected  end text end cell row cell text  waves corresponding to waves directly coming from source):  end text end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  For ring  end text straight a equals gsin theta divided by 2 text  (for pure rolling) is less than that of disc  end text end cell row cell text  Hence (B).  end text end cell end table"},"status":"ok"}

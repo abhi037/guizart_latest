@@ -1,0 +1,1 @@
+{"result":{"text":"text dm.ω end text squared straight R equals 2 straight T space sin fraction numerator straight d theta over denominator 2 end fraction"},"status":"ok"}

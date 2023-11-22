@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell straight a space sin space straight theta equals straight b space cos space straight theta end cell row cell straight b equals straight a space tan space straight theta equals 3 over 4 straight a end cell end table"},"status":"ok"}

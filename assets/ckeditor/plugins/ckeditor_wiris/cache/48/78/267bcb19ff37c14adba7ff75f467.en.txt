@@ -1,0 +1,1 @@
+{"result":{"text":"straight T subscript 1 space greater than space straight T subscript 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight pi space plus space vt over straight R"},"status":"ok"}

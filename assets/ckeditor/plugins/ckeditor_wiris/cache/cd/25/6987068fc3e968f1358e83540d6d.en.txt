@@ -1,0 +1,1 @@
+{"result":{"text":"straight F subscript least space equals space kx subscript 0 minus kA space equals space mg space minus space mω squared straight A space equals space mg space minus space 4 straight pi squared over straight T squared mA"},"status":"ok"}

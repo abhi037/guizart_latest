@@ -1,0 +1,1 @@
+{"result":{"text":"text  Which of the following is greatest in SHM (assuming potential energy =0 at mean position)  end text"},"status":"ok"}

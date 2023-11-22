@@ -1,0 +1,1 @@
+{"result":{"text":"1 half mω squared straight A squared"},"status":"ok"}

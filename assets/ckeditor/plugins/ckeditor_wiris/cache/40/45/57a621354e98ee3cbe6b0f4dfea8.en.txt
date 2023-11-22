@@ -1,0 +1,1 @@
+{"result":{"text":"2 over straight pi squared sinπt space minus fraction numerator 2 straight t over denominator straight pi end fraction"},"status":"ok"}

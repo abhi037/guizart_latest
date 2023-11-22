@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row blank row blank row cell text  A  end text union straight B text  is an equivalence relation  end text end cell row blank end table"},"status":"ok"}

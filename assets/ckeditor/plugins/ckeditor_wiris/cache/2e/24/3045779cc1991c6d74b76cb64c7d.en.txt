@@ -1,0 +1,1 @@
+{"result":{"text":"straight W subscript straight A plus straight W subscript straight B equals 0"},"status":"ok"}

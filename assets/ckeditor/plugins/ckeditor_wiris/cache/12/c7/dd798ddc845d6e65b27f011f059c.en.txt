@@ -1,0 +1,1 @@
+{"result":{"text":"straight C presuperscript 6 subscript 3 cross times to the power of 4 straight C subscript 2"},"status":"ok"}

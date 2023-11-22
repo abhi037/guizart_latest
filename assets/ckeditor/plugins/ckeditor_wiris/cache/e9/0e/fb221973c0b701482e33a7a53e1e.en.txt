@@ -1,0 +1,1 @@
+{"result":{"text":"1 half vertical line straight z vertical line squared"},"status":"ok"}

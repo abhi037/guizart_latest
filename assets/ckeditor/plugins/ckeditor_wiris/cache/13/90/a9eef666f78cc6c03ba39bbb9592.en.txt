@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight u subscript perpendicular superscript 2 over denominator straight a end fraction space equals space 4 squared over 2 equals 8 space meters."},"status":"ok"}

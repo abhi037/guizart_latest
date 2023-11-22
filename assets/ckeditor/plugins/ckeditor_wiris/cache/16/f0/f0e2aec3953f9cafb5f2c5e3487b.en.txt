@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left left end attributes row cell text end text straight m over 5 left parenthesis 3 straight g plus 4 straight a right parenthesis end cell blank blank blank end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"A comma B text  and  end text C open parentheses m subscript A equals m subscript c equals 4 m subscript s close parentheses"},"status":"ok"}

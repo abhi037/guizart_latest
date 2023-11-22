@@ -1,0 +1,1 @@
+{"result":{"text":"straight x subscript 0 equals mg over straight k"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell negative 2 straight m times straight v plus 2 straight v times straight m equals 0 equals MV subscript cm end cell row cell straight V subscript cm equals 0 end cell end table"},"status":"ok"}

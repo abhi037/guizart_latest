@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style space increment CAB space tilde space increment space PQR end style"},"status":"ok"}

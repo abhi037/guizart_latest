@@ -1,0 +1,1 @@
+{"result":{"text":"straight I subscript max over straight I subscript min space"},"status":"ok"}

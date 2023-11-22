@@ -1,0 +1,1 @@
+{"result":{"text":"straight P subscript 0"},"status":"ok"}

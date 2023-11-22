@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 4 mg over denominator straight L end fraction"},"status":"ok"}

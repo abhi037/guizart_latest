@@ -1,0 +1,1 @@
+{"result":{"text":"text  The value of the expression  end text to the power of 47 C subscript 4 plus sum from j equals 1 to 5 of 52 minus j space space C subscript 3 text  is equal to  end text"},"status":"ok"}

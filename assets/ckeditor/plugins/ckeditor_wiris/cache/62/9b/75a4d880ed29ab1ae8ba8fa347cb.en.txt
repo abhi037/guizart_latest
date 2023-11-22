@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  A uniform disc is performing pure rolling on a smooth stationary surface with constant angular velocity  end text end cell row cell text  as shown in figure. At any instant, for the lowermost point of the disc  end text end cell end table"},"status":"ok"}

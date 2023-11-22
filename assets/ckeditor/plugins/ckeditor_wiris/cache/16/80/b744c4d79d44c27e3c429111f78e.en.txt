@@ -1,0 +1,1 @@
+{"result":{"text":"blank to the power of 4 C subscript 2 cross times to the power of 4 P subscript 3"},"status":"ok"}

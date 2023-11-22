@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses straight I subscript straight A over straight I subscript straight B close parentheses"},"status":"ok"}

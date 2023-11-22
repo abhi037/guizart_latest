@@ -1,0 +1,1 @@
+{"result":{"text":"straight E squared over straight mu subscript 0 text  has the dimensions  end text open parentheses straight E equals text  ele end text ctric text  flux,  end text straight mu subscript 0 equals text  permeability of free space)  end text close"},"status":"ok"}

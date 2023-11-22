@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 1 over denominator 2 πL end fraction square root of space fraction numerator mgL space plus straight k over denominator straight m end fraction end root"},"status":"ok"}

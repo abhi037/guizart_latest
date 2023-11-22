@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style If space in space two space ΔACB text  and  end text ΔPQR comma AB over QR equals BC over PR equals CA over PQ comma space then end style"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript straight c space equals space square root of 2 gL end root"},"status":"ok"}

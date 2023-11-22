@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left left end attributes row rightwards double arrow cell 2 mg equals μN end cell row rightwards double arrow cell 2 mg equals 3 μmg end cell row rightwards double arrow cell straight mu equals 2 divided by 3 text  Ans.  end text end cell end table"},"status":"ok"}

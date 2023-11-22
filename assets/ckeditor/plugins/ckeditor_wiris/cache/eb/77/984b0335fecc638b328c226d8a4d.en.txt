@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses straight v subscript 1 close parentheses squared over straight a subscript 1 equals fraction numerator straight u squared sin squared over denominator straight g end fraction"},"status":"ok"}

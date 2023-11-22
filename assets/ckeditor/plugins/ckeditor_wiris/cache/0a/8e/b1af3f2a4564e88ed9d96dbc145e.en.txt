@@ -1,0 +1,1 @@
+{"result":{"text":"mg space plus space fraction numerator 4 straight pi squared over denominator straight T squared end fraction straight m space straight A"},"status":"ok"}

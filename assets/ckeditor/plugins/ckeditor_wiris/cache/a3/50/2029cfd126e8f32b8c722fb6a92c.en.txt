@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 3 cross times 4 cubed end root"},"status":"ok"}

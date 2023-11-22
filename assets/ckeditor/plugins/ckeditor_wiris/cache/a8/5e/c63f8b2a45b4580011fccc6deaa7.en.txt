@@ -1,0 +1,1 @@
+{"result":{"text":"straight y space equals space straight e to the power of 2 straight x end exponent space sin space straight t"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style square root of square root of 34 end root end style"},"status":"ok"}

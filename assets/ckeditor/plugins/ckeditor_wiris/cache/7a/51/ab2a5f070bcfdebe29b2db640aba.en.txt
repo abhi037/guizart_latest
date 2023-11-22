@@ -1,0 +1,1 @@
+{"result":{"text":"straight x plus 2 space straight y plus 10 equals 0"},"status":"ok"}

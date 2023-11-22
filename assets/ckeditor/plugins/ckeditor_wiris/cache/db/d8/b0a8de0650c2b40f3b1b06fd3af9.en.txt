@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight i right parenthesis squared"},"status":"ok"}

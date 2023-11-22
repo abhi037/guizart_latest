@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared plus straight y squared equals 34"},"status":"ok"}

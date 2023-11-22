@@ -1,0 +1,1 @@
+{"result":{"text":"straight T equals square root of left parenthesis mg right parenthesis squared plus left parenthesis ma right parenthesis squared end root equals 10 square root of 2 straight N"},"status":"ok"}

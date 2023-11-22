@@ -1,0 +1,1 @@
+{"result":{"text":"left parenthesis straight A right parenthesis minus r comma space straight t semicolon left parenthesis straight B right parenthesis minus straight q comma straight s semicolon left parenthesis straight C right parenthesis minus straight p semicolon left parenthesis straight D right parenthesis minus straight q comma straight r"},"status":"ok"}

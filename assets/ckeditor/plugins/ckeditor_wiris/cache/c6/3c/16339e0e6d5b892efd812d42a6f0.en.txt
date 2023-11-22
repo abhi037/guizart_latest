@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell Tsinθ equals ma subscript 0 plus mgsinα end cell row cell Tcosθ equals mgcosα end cell row cell tanθ equals fraction numerator straight a subscript 0 plus gsinα over denominator gcosα end fraction end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"60 to the power of 0 comma space straight h space equals space straight R space minus space straight R space cos space 60 to the power of 0 space equals straight R over 2"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"gsinα open parentheses 1 plus straight m over straight M close parentheses text  down the incline  end text"},"status":"ok"}

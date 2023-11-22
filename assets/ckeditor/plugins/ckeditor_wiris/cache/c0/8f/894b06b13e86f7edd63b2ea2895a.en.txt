@@ -1,0 +1,1 @@
+{"result":{"text":"C presuperscript n subscript r minus 1 end subscript equals 36 comma to the power of n C subscript r equals 84 text  and  end text to the power of n C subscript r plus 1 end subscript equals 126 comma text  then  end text r text  is :  end text"},"status":"ok"}

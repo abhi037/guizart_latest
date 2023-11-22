@@ -1,0 +1,1 @@
+{"result":{"text":"straight x squared space equals space 4 ay"},"status":"ok"}

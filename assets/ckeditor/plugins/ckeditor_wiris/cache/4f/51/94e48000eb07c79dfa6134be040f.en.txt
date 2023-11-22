@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style If space S space is space a space point space on space side space PQ space of space a space increment PQR space such space that space P S space equals space QS space equals space RS comma space then end style"},"status":"ok"}

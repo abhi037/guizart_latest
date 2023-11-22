@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell capital sigma tau equals 0 end cell row cell 100 straight N cross times 16 cm equals straight T cross times 10 cm end cell row cell straight T equals 160 straight N end cell end table"},"status":"ok"}

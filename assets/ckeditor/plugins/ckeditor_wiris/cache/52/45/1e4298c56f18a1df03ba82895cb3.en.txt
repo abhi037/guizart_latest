@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style In space increment ABC space and space increment DEF comma space space angle B space equals space angle E comma space space space angle F space equals space angle C space and space AB space equals space 3 DE end style"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  For coin to enter hole,  end text end cell row cell text  its velocity must be along  end text PO    therefore tanθ equals 6 over 4 equals 3 over 4    text  or  end text    straight u equals 2 straight m divided by straight s end cell end table"},"status":"ok"}

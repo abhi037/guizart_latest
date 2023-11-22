@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style If space the space lengths space of space the space diagonals space of space rhombus space are space 16 space cm space and space 12 space cm point space\nThen comma space the space length space of space the space sides space of space the space rhombus space is space 9 space cm end style"},"status":"ok"}

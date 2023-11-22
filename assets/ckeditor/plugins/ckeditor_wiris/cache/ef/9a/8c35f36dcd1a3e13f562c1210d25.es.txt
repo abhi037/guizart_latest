@@ -1,0 +1,1 @@
+{"result":{"text":"raíz cuadrada de f d f fin raíz"},"status":"ok"}

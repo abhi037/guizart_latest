@@ -1,0 +1,1 @@
+{"result":{"text":"straight a space equals space dv over dt\nIt space straight a space equals space 0\nstraight v space may space or space may space not space be space zero."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  The least value of the expression  end text 2 log subscript 10 x minus log subscript x left parenthesis 0.01 right parenthesis comma text  for  end text end cell row cell x greater than 1 comma text  is  end text end cell end table"},"status":"ok"}

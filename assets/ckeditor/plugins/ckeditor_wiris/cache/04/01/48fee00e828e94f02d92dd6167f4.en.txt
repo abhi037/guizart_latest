@@ -1,0 +1,1 @@
+{"result":{"text":"1 half straight I omega squared equals Mg cross times straight R over 2    rightwards double arrow    omega equals square root of MgR over straight I end root"},"status":"ok"}

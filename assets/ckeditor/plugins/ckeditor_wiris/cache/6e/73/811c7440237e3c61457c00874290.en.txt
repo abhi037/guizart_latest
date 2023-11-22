@@ -1,0 +1,1 @@
+{"result":{"text":"straight lambda subscript straight i over straight lambda subscript straight r space equals space fraction numerator 19 straight u over denominator 2 straight f end fraction space straight x space fraction numerator 18 straight f over denominator 11 space straight x space 19 straight u end fraction space equals space 9 over 11 space Ans."},"status":"ok"}

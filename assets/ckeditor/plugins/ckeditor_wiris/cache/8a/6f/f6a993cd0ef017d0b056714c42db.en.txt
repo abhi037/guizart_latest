@@ -1,0 +1,1 @@
+{"result":{"text":"1 half mv squared equals mg space left parenthesis straight r space cos space straight alpha space minus space straight r space sin space straight beta right parenthesis space space space space space space space space....... left parenthesis 2 right parenthesis"},"status":"ok"}

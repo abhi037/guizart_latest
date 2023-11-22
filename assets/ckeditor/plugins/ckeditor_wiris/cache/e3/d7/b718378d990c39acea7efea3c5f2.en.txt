@@ -1,0 +1,1 @@
+{"result":{"text":"Straight space lines space left parenthesis straight x space plus space 7 straight y right parenthesis squared space plus space 4 square root of 2 left parenthesis straight x space plus space 7 straight y right parenthesis space minus space 42 space equals 0 space Then space"},"status":"ok"}

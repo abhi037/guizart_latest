@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style If space in space two space increment DEF space and space increment PQR comma space angle D space equals space angle Q space and space angle R space equals space angle E comma space then space which space of space the space following space is space not space true ? end style"},"status":"ok"}

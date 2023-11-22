@@ -1,0 +1,1 @@
+{"result":{"text":"6 minus 2 square root of 2"},"status":"ok"}

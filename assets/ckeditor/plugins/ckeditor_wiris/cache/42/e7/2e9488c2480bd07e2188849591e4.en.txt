@@ -1,0 +1,1 @@
+{"result":{"text":"dy over dx space equals space 1 space space space space space rightwards double arrow space space hence space straight theta equals 45 to the power of 0"},"status":"ok"}

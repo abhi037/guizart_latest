@@ -1,0 +1,1 @@
+{"result":{"text":"straight N subscript straight A space end subscript"},"status":"ok"}

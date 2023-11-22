@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses 1 over straight n close parentheses squared"},"status":"ok"}

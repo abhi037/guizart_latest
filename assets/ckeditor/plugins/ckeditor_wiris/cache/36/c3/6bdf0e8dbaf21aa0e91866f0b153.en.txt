@@ -1,0 +1,1 @@
+{"result":{"text":"straight y space equals space 6 over straight x squared"},"status":"ok"}

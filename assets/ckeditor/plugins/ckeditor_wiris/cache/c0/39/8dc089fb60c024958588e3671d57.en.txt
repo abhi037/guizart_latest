@@ -1,0 +1,1 @@
+{"result":{"text":"straight B space equals space straight p space open parentheses straight omega over straight k close parentheses squared\nspace"},"status":"ok"}

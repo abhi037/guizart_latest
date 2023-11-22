@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  For sum of three non null vectors to be zero, they must be coplanar. Hence Statement-  end text 2 text  is a correct  end text end cell row cell text  explanation for Statement-1.  end text end cell end table"},"status":"ok"}

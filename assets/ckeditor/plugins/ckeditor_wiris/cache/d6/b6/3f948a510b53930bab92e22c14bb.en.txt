@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 2 g over denominator 3 end fraction space straight m divided by straight s"},"status":"ok"}

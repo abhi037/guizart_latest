@@ -1,0 +1,1 @@
+{"result":{"text":"fifth root of 2 space straight m divided by straight s"},"status":"ok"}

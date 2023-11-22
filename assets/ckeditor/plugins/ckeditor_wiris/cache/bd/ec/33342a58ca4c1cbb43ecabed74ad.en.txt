@@ -1,0 +1,1 @@
+{"result":{"text":"3 square root of 71 space straight m divided by straight s squared"},"status":"ok"}

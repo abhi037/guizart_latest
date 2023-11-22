@@ -1,0 +1,1 @@
+{"result":{"text":"straight v subscript straight c space space end subscript"},"status":"ok"}

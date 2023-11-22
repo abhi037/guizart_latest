@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator 72 straight v squared over denominator 25 πR end fraction"},"status":"ok"}

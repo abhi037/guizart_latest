@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell text  The line,  end text ell x plus m y plus n equals 0 text  will cut the ellipse  end text x squared over a squared plus y squared over b squared equals 1 text  in points whose eccentric angles differ by  end text pi over 2 end cell row cell text  if:  end text end cell end table"},"status":"ok"}

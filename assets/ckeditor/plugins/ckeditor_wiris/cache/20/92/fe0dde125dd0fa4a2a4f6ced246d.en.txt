@@ -1,0 +1,1 @@
+{"result":{"text":"a space calligraphic ln left parenthesis straight a space straight u space straight t right parenthesis"},"status":"ok"}

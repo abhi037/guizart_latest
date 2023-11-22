@@ -1,0 +1,1 @@
+{"result":{"text":"straight P over straight v minus mgsinθ minus μmgcosθ equals mdv over dt\nthe space speed space is space maximum space space when dv over dt equals space 0\ntherefore    straight v subscript max equals fraction numerator straight P over denominator mg sinθ plus straight mu mg cosθ end fraction"},"status":"ok"}

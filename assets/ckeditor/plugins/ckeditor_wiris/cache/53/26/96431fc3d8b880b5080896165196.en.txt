@@ -1,0 +1,1 @@
+{"result":{"text":"italic x subscript 2 minus sign italic x subscript 1"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"k element of left parenthesis negative infinity comma negative 2 right parenthesis union left parenthesis 3 comma infinity right parenthesis"},"status":"ok"}

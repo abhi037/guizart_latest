@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight F minus kx over denominator straight m end fraction"},"status":"ok"}

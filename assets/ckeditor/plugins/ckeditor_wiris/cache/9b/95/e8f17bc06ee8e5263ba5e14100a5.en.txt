@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator m open parentheses i close parentheses squared l over denominator 8 A Y end fraction"},"status":"ok"}

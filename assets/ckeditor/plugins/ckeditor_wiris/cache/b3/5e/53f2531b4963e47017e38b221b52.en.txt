@@ -1,0 +1,1 @@
+{"result":{"text":"theta equals ten to the power of negative 1 end exponent open parentheses a subscript 0 over g close parentheses"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight y equals 0.5 straight A space sin left parenthesis negative kx minus ωt plus straight theta right parenthesis space space space space space equals negative 0.5 straight A space sin left parenthesis kx plus ωt minus straight theta right parenthesis"},"status":"ok"}

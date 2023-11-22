@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style x squared minus 4 x plus 3 square root of 2 equals 0 end style"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"rightwards double arrow    straight a plus straight a plus 6 greater than 0 text  and  end text straight a plus straight a minus 6 less than 0 rightwards double arrow    minus 3 less than straight a less than 3"},"status":"ok"}

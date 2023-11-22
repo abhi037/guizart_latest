@@ -1,0 +1,1 @@
+{"result":{"text":"fraction numerator straight V minus 4 over denominator 2 end fraction equals space 2 space space straight V space equals space 8 space straight m divided by straight s space left parenthesis velcoity space of space straight B space straight w. straight r. straight t space ground right parenthesis"},"status":"ok"}

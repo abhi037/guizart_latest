@@ -1,0 +1,1 @@
+{"result":{"text":"table attributes columnalign left end attributes row cell italic n equals 3 end cell row cell PE equals minus sign 27.2 cross times Z squared over n squared eV end cell row cell PE equals minus sign 27.2 cross times 1 squared over 3 squared equals minus sign 3.02 eV end cell end table"},"status":"ok"}

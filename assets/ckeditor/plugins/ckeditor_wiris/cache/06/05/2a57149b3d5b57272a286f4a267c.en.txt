@@ -1,0 +1,1 @@
+{"result":{"text":"Statement minus 2 space contradicts space Newton apostrophe straight s space third space law space and space hence space is space false."},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"straight m left parenthesis straight g plus straight a right parenthesis"},"status":"ok"}

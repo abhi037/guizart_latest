@@ -1,0 +1,1 @@
+{"result":{"text":"dv over dt equals 2 straight t\ntable attributes columnalign left end attributes row cell straight m times 2 straight t times straight h over 2 equals mg times straight r end cell row cell straight t equals 10 end cell end table"},"status":"ok"}

@@ -1,0 +1,1 @@
+{"result":{"text":"text  when bottom half of the stick is cut off  end text"},"status":"ok"}

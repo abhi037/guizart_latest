@@ -1,0 +1,1 @@
+{"result":{"text":"straight a with rightwards arrow on top equals 2 straight i with hat on top plus 3 straight j with hat on top straight m divided by straight s squared text  and  end text straight P with rightwards arrow on top equals 6 straight i with hat on top minus 4 straight i with hat on top"},"status":"ok"}

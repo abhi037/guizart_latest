@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses N H subscript 4 close parentheses subscript 3 open square brackets As open parentheses Mo subscript 3 O subscript 10 close parentheses subscript 4 close square brackets"},"status":"ok"}

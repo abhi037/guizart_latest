@@ -1,0 +1,1 @@
+{"result":{"text":"square root of 2 straight v squared over straight g"},"status":"ok"}

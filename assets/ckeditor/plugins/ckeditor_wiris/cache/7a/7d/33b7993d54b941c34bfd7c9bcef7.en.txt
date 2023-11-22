@@ -1,0 +1,1 @@
+{"result":{"text":"begin mathsize 12px style Now comma space perimeter space of space ΔAOB space equals space Sum space of space the space length space of space all space its space sides colon end style"},"status":"ok"}

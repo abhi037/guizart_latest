@@ -1,0 +1,1 @@
+{"result":{"text":"straight u with rightwards arrow on top times straight F with rightwards arrow on top equals 0 text  and  end text straight F with rightwards arrow on top equals constant"},"status":"ok"}

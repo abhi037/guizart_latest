@@ -1,0 +1,1 @@
+{"result":{"text":"left square bracket straight a right square bracket equals left square bracket negative straight e right square bracket element of left parenthesis 4 comma infinity right parenthesis"},"status":"ok"}

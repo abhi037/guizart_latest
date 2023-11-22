@@ -1,0 +1,1 @@
+{"result":{"text":"Al to the power of 3 plus sign text  is reduced at the cathode to form Al  end text"},"status":"ok"}

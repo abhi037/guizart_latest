@@ -1,0 +1,1 @@
+{"result":{"text":"open parentheses root index 15 of 2 close parentheses to the power of 1 divided by 2 end exponent"},"status":"ok"}
