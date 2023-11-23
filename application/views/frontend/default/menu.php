@@ -14,8 +14,8 @@
             <ul class="category corner-triangle top-left is-hidden">
                 <li class="go-back"><a href=""><i class="fas fa-angle-left"></i>Menu</a></li>
                 <?php
-                    $categories = $this->crud_model->get_categories()->result_array();
-                    foreach ($categories as $category):?>
+                $categories = $this->crud_model->get_categories()->result_array();
+                foreach ($categories as $category): ?>
                     <li class="has-children">
                         <a href="#">
                             <span class="icon"><i class="<?php echo $category['font_awesome_class']; ?>"></i></span>
@@ -30,9 +30,9 @@
                                 <?php echo $category['name']; ?>
                             </a></li>
                             <?php
-                             $sub_categories = $this->crud_model->get_sub_categories($category['id']);
-                             foreach ($sub_categories as $sub_category): ?>
-                                <li><a href="<?php echo site_url('home/category/'.slugify($sub_category['name']).'/'.$sub_category['id']); ?>"><?php echo $sub_category['name']; ?></a></li>
+                            $sub_categories = $this->crud_model->get_sub_categories($category['id']);
+                            foreach ($sub_categories as $sub_category): ?>
+                                <li><a href="<?php echo site_url('home/category/' . slugify($sub_category['name']) . '/' . $sub_category['id']); ?>"><?php echo $sub_category['name']; ?></a></li>
                             <?php endforeach; ?>
                         </ul>
                     </li>
@@ -45,71 +45,78 @@
 </div> -->
 
 <div class="collapse navbar-collapse" id="navbar-menu">
-    
-                    <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
-                          <li class="dropdown">
-                            
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" ><span class="icon"><i class="fa fa-university mr-2" aria-hidden="true"></i></i><span> <?php echo get_phrase('categories'); ?></a>
-                            <ul class="dropdown-menu">
-                                 <?php
-                    $categories = $this->crud_model->get_categories()->result_array();
-                    foreach ($categories as $category):?>
-                                
-                               
-                                <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" ><span class="icon"><i class="<?php echo $category['font_awesome_class']; ?> mr-2"></i></span> <?php echo $category['name']; ?></a>
-                                    <ul class="dropdown-menu pre-scrollable">
-                                        <?php
-                             $sub_categories = $this->crud_model->get_sub_categories($category['id']);
-                             foreach ($sub_categories as $sub_category): ?>
-                                        <li><a href="<?php echo site_url('home/category/'.slugify($sub_category['name']).'/'.$sub_category['id']); ?>"><?php echo $sub_category['name']; ?></a></li>
-                                                <?php endforeach; ?>
-                                    </ul>
-                                </li>
-                           
-                                 <?php endforeach; ?>
-                            </ul>
-                              
-                        </li>
 
-                      
-                       
-                      
-                      <!-- <li class="dropdown">
+    <ul class="nav navbar-nav navbar-left" data-in="fadeInDown" data-out="fadeOutUp">
+        <li class="dropdown">
+
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon"><i
+                        class="fa fa-university mr-2" aria-hidden="true"></i></i><span>
+                        <?php echo get_phrase('categories'); ?></a>
+            <ul class="dropdown-menu">
+                <?php
+
+                $categories = $this->crud_model->get_categories()->result_array();
+                // Perform additional operations and filter disabled=0
+                $categories = array_filter($categories, function ($category) {
+                    // Filter out sub-categories where disabled=0
+                    return $category['disabled'] == 0;
+                });
+                foreach ($categories as $category):
+                    //  if ($category["disabled"] == 1) {
+                    //      continue;
+                    // }
+                
+                    ?>
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="icon"><i
+                                    class="<?php echo $category['font_awesome_class']; ?> mr-2"></i></span>
+                            <?php echo $category['name']; ?>
+                        </a>
+                        <ul class="dropdown-menu pre-scrollable">
+                            <?php
+                            $sub_categories = $this->crud_model->get_sub_categories($category['id']);
+                            // Perform additional operations and filter disabled=0
+                            $sub_categories = array_filter($sub_categories, function ($sub_category) {
+                                // Filter out sub-categories where disabled=0
+                                return $sub_category['disabled'] == 0;
+                            });
+                            foreach ($sub_categories as $sub_category):
+                                // if ($sub_category["disabled"] == 1) {
+                                //     continue;
+                                // }
+                                ?>
+                                <li><a
+                                        href="<?php echo site_url('home/category/' . slugify($sub_category['name']) . '/' . $sub_category['id']); ?>">
+                                        <?php echo $sub_category['name']; ?>
+                                    </a></li>
+                            <?php endforeach; ?>
+                        </ul>
+                    </li>
+
+                <?php endforeach; ?>
+            </ul>
+
+        </li>
+
+
+        <!-- <li class="dropdown">
 
                            
                               <?php
-                        if(isset($hightligt_quiz[0])) {  ?>
-                         
-                        
-                          
-                                  
-                                  
-
-                     
-    		
-    	
-    		
-    		  
-    		  	<?php if($hightligt_quiz[0]->price=='0' || $hightligt_quiz[0]->price=='0.00') { ?>
-    		  		<a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo site_url('home/highlightquiz/' . (isset($hightligt_quiz[0]->id) ? md5($hightligt_quiz[0]->id) : "")); ?>"><span class="icon">    <i class="fa fa-bullhorn  mr-2" aria-hidden="true"></i>  </span> <?php echo isset($hightligt_quiz[0]->title) ? $hightligt_quiz[0]->title : '' ?> Enroll Now..!!</a>
-  		  		<?php } else {?>
-  		  			<a class="dropdown-toggle" data-toggle="dropdown"  data-target="#EnrollUpModel" href="#"><span class="icon">    <i class="fa fa-bullhorn  mr-2" aria-hidden="true"></i>  </span>  Enroll Now..!!</a>
-  		  		<?php } ?> 
-    		 
-    	
-  
-	
-	
-
-                               
-                               
-                           
-                            
-	<?php } ?>
+                              if (isset($hightligt_quiz[0])) { ?>
+                      
+                  <?php if ($hightligt_quiz[0]->price == '0' || $hightligt_quiz[0]->price == '0.00') { ?>
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="<?php echo site_url('home/highlightquiz/' . (isset($hightligt_quiz[0]->id) ? md5($hightligt_quiz[0]->id) : "")); ?>"><span class="icon">    <i class="fa fa-bullhorn  mr-2" aria-hidden="true"></i>  </span> <?php echo isset($hightligt_quiz[0]->title) ? $hightligt_quiz[0]->title : '' ?> Enroll Now..!!</a>
+                    <?php } else { ?>
+                        <a class="dropdown-toggle" data-toggle="dropdown"  data-target="#EnrollUpModel" href="#"><span class="icon">    <i class="fa fa-bullhorn  mr-2" aria-hidden="true"></i>  </span>  Enroll Now..!!</a>
+                    <?php } ?> 
+             
+    <?php } ?>
                            
                         </li> -->
-                   <!--   <li class="dropdown"> 
+        <!--   <li class="dropdown"> 
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" >Teachers</a>
                             <ul class="dropdown-menu">
                                 <li><a href="advisors.html">Teachers One</a></li>
@@ -131,6 +138,6 @@
                         <li>
                             <a href="contact.html">Contact</a>
                         </li> -->
-                    </ul>
+    </ul>
 
-                </div><!-- /.navbar-collapse -->
+</div><!-- /.navbar-collapse -->

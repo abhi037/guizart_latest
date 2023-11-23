@@ -54,6 +54,17 @@
                         </div>
 
                         <div class="form-group">
+                            <label for="field-1" class="col-sm-3 control-label">Disabled</label>
+
+                            <div class="col-sm-5">
+                            <select class="form-control" id="disabled" name="disabled">
+                              <option value="0" <?php if($data['disabled'] == 0) echo 'selected'; ?>>No</option>
+                              <option value="1" <?php if($data['disabled'] == 1) echo 'selected'; ?>>Yes</option>
+                            </select>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
                             <div class="col-sm-offset-3 col-sm-5">
                                 <button class = "btn btn-success" type="submit" name="button"><?php echo get_phrase('update_category'); ?></button>
                             </div>
