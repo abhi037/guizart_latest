@@ -85,8 +85,8 @@ $db['default'] = array(
 
     
 
-	'username' => 'u208937329_quizartuser',
-	'password' => 'QuizArt123#',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'u208937329_quizart_lis',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
